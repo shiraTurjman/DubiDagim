@@ -20,7 +20,8 @@ phone varchar(10) not null
 create table Category(
 categoryId int identity not null,
 constraint pk_category primary key (categoryId),
-categoryName varchar(50)
+categoryName varchar(50) not null,
+icon varchar not null
 )
 
 create table Item(
