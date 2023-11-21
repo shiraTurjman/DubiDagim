@@ -1,0 +1,5 @@
+C:\Users\s0527\Desktop\website ariel\ServerDuby\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+C:\Users\s0527\Desktop\website ariel\ServerDuby\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s0527\Desktop\website ariel\ServerDuby\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+C:\Users\s0527\Desktop\website ariel\ServerDuby\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+C:\Users\s0527\Desktop\website ariel\ServerDuby\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
