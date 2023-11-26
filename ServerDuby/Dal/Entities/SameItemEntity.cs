@@ -17,12 +17,12 @@ namespace Dal.Entity
         [Required]
         [ForeignKey("Items")]
         public int ItemAId { get; set; }
-        public ItemEntity ItemA { get; set; }
+        public ItemEntity? ItemA { get; set; }
 
         [Required]
         [ForeignKey("Items")]
         public int ItemBId { get; set; }
-        public ItemEntity ItemB { get; set;}
+        public ItemEntity? ItemB { get; set;}
 
     }
 }

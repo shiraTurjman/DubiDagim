@@ -17,6 +17,7 @@ namespace Dal.Entity
         [Required]
         [ForeignKey("Items")]
         public int ItemId { get; set; }
+        public ItemEntity Item { get; set; }
 
         [Required]
         public string FileName { get; set; }

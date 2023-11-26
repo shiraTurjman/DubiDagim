@@ -9087,11 +9087,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s0527\\Desktop\\website ariel\\ServerDuby\\ServerDuby\\Api.csproj",
+      "projectUniqueName": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Api.csproj",
       "projectName": "Api",
-      "projectPath": "C:\\Users\\s0527\\Desktop\\website ariel\\ServerDuby\\ServerDuby\\Api.csproj",
+      "projectPath": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Api.csproj",
       "packagesPath": "C:\\Users\\s0527\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s0527\\Desktop\\website ariel\\ServerDuby\\ServerDuby\\obj\\",
+      "outputPath": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s0527\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9108,8 +9108,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\s0527\\Desktop\\website ariel\\ServerDuby\\Dal\\Dal.csproj": {
-              "projectPath": "C:\\Users\\s0527\\Desktop\\website ariel\\ServerDuby\\Dal\\Dal.csproj"
+            "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Dal.csproj": {
+              "projectPath": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Dal.csproj"
             }
           }
         }

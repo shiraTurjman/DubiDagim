@@ -15,11 +15,6 @@ namespace Dal.Entity
         public int OrderId { get; set; }
 
         [Required]
-        [ForeignKey("Users")]
-        public int UserId { get; set; }
-        public UserEntity User { get; set; }
-
-        [Required]
         public DateTime OrderDate { get; set; }
 
     }

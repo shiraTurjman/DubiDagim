@@ -15,7 +15,7 @@ namespace Dal.Entity
         public DbSet<OrderEntity> Orders { get; set; }
         public DbSet<SaleEntity> Sales { get; set; }
         public DbSet<SameItemEntity> SameItems { get; set; }
-        public DbSet<ShoppingCartEntity> ShoppingCarts { get; set; }
+        public DbSet<ItemInShoppingCartEntity> ItemInShoppingCarts { get; set; }
         public DbSet<UserEntity> Users { get; set; }
 
         public ServerDbContext(DbContextOptions<ServerDbContext> options) : base(options)

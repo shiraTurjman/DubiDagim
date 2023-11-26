@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hS8AjrpHI4c7MfE7U9+SbaH61rmDtjQ6PJhRymGzhX/RRj1Sf4UT0ksRKMG16txjUpDLBCxjUIxmxyHeXoXpRA==",
+  "dgSpecHash": "jU9mJi6kjVg4BDJhNNdomqEZKvuElDmirT8U+MJfi96hEdiUhdib1VjYUwLQNf8Ih+6mOiIJanoX6CiSPGLLOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\s0527\\Desktop\\website ariel\\ServerDuby\\Dal\\Dal.csproj",
+  "projectFilePath": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Dal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\s0527\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\s0527\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

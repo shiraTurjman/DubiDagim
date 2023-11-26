@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7TCcdmal3jnn+DtX/vSzQ63x6AigIE++yKygaG5XsrWYyGduv6JU/rgsvETKRPexROBT7FJqi3dWEGu4u39LjQ==",
+  "dgSpecHash": "TPm9+PGcLdpUVzS0ibjFSD3lvyAzzpPwbN2SEayUV+3kxc7Sro6JiXs+C4J63NID5rg18hHo7knj8dQ1FbMIXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\s0527\\Desktop\\website ariel\\ServerDuby\\ServerDuby\\Api.csproj",
+  "projectFilePath": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\s0527\\.nuget\\packages\\antlr\\3.4.1.9004\\antlr.3.4.1.9004.nupkg.sha512",
     "C:\\Users\\s0527\\.nuget\\packages\\autofac\\3.5.0\\autofac.3.5.0.nupkg.sha512",
