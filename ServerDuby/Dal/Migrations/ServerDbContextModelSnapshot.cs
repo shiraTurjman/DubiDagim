@@ -186,9 +186,6 @@ namespace Dal.Migrations
                     b.Property<int>("OrderId")
                         .HasColumnType("int");
 
-                    b.Property<int>("UserId")
-                        .HasColumnType("int");
-
                     b.HasKey("ItemInShoppingCartId");
 
                     b.HasIndex("CuttingShapeId");
@@ -196,8 +193,6 @@ namespace Dal.Migrations
                     b.HasIndex("ItemId");
 
                     b.HasIndex("OrderId");
-
-                    b.HasIndex("UserId");
 
                     b.ToTable("ItemInShoppingCarts");
                 });
@@ -210,10 +205,18 @@ namespace Dal.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("OrderId"));
 
+                    b.Property<bool>("IsShoppingCart")
+                        .HasColumnType("bit");
+
                     b.Property<DateTime>("OrderDate")
                         .HasColumnType("datetime2");
 
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
                     b.HasKey("OrderId");
+
+                    b.HasIndex("UserId");
 
                     b.ToTable("Orders");
                 });
@@ -256,10 +259,10 @@ namespace Dal.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SameItemId"));
 
-                    b.Property<int>("ItemAId")
+                    b.Property<int?>("ItemAId")
                         .HasColumnType("int");
 
-                    b.Property<int>("ItemBId")
+                    b.Property<int?>("ItemBId")
                         .HasColumnType("int");
 
                     b.HasKey("SameItemId");
@@ -297,6 +300,9 @@ namespace Dal.Migrations
                     b.Property<string>("Phone")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("SoppingCardId")
+                        .HasColumnType("int");
 
                     b.Property<string>("UserName")
                         .IsRequired()
@@ -370,17 +376,20 @@ namespace Dal.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Dal.Entity.UserEntity", "User")
-                        .WithMany()
-                        .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.Navigation("CuttingShape");
 
                     b.Navigation("Item");
 
                     b.Navigation("Order");
+                });
+
+            modelBuilder.Entity("Dal.Entity.OrderEntity", b =>
+                {
+                    b.HasOne("Dal.Entity.UserEntity", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("User");
                 });
@@ -400,15 +409,11 @@ namespace Dal.Migrations
                 {
                     b.HasOne("Dal.Entity.ItemEntity", "ItemA")
                         .WithMany()
-                        .HasForeignKey("ItemAId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("ItemAId");
 
                     b.HasOne("Dal.Entity.ItemEntity", "ItemB")
                         .WithMany()
-                        .HasForeignKey("ItemBId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("ItemBId");
 
                     b.Navigation("ItemA");
 

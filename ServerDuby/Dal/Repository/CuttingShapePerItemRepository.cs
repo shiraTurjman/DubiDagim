@@ -77,11 +77,16 @@ namespace Dal.Repository
             }
         }
 
-        public async Task<List<CuttingShapePerItemEntity>> GetAllCuttingShapePerItemByItemIdAsync(int itemId)
+        public async Task<List<CuttingShapeEntity>> GetAllCuttingShapePerItemByItemIdAsync(int itemId)
         {
             using var context = _factory.CreateDbContext();
-            var list = await context.CuttingShapePerItem.Where(o => o.ItemId == itemId).ToListAsync();
-            return list;
+            var result = await context.CuttingShapePerItem.Where(o => o.ItemId == itemId).ToListAsync();
+            List<CuttingShapeEntity> cuttingShapes = new List<CuttingShapeEntity>();
+            foreach (var cuttingShape in result)
+            {
+                cuttingShapes.Add(await context.CuttingShapes.FirstOrDefaultAsync(c=>c.CuttingShapeId==cuttingShape.CuttingShapeId));
+            }
+            return cuttingShapes;
         }
     }
 }

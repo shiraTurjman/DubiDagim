@@ -69,5 +69,15 @@ namespace Dal.Repository
                 throw new Exception("The category you are trying to update doesn't exist.");
             }
         }
+
+        public async Task<string> GetCategoryNameById(int categoryId)
+        {
+            using var context = _factory.CreateDbContext();
+            var category = await context.Categories.FirstOrDefaultAsync(c => c.CategoryId == categoryId);
+            if (category != null)
+                return category.CategoryName;
+            else
+                throw new Exception("this category not found");
+        }
     }
 }

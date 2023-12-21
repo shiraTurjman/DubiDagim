@@ -17,5 +17,12 @@ namespace Dal.Entity
         [Required]
         public DateTime OrderDate { get; set; }
 
+        [Required]
+        [ForeignKey("Users")]
+        public int UserId { get; set; }
+        public UserEntity User { get; set; }
+
+        public bool IsShoppingCart { get; set; }
+
     }
 }

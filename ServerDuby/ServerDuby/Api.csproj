@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="iRely.Common" Version="17.4.6491.18934" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.13" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.3" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.0">
@@ -18,11 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\Dal\Dal.csproj" />
+    <ProjectReference Include="..\Bll\Bll.csproj" />
+    <ProjectReference Include="..\Dto\Dto.csproj" />
   </ItemGroup>
 
 </Project>

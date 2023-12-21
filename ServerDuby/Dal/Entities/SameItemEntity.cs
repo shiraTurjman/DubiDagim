@@ -14,14 +14,13 @@ namespace Dal.Entity
         [Required]
         public int SameItemId { get; set; }
 
-        [Required]
         [ForeignKey("Items")]
-        public int ItemAId { get; set; }
+        public int? ItemAId { get; set; }
         public ItemEntity? ItemA { get; set; }
 
-        [Required]
+       
         [ForeignKey("Items")]
-        public int ItemBId { get; set; }
+        public int? ItemBId { get; set; }
         public ItemEntity? ItemB { get; set;}
 
     }

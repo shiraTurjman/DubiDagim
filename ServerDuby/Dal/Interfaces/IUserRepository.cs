@@ -11,7 +11,7 @@ namespace Dal.Interfaces
     {
         Task AddUserAsync(UserEntity user);
         Task UpdateUserAsync(UserEntity user);
-        Task DeleteUserAsync(UserEntity user);
+        Task DeleteUserAsync(int userId);
 
         Task<UserEntity> GetUserByIdAsync(int userId);
 

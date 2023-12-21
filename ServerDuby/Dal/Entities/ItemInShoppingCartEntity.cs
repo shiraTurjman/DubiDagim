@@ -15,11 +15,6 @@ namespace Dal.Entity
         public int ItemInShoppingCartId { get; set; }
 
         [Required]
-        [ForeignKey("Users")]
-        public int UserId { get; set; }
-        public UserEntity User { get; set; }
-
-        [Required]
         [ForeignKey("Items")]
         public int ItemId { get; set; }
         public ItemEntity Item { get; set; }
@@ -35,7 +30,7 @@ namespace Dal.Entity
 
         [Required]
         [ForeignKey("Orders")]
-        public int OrderId { get; set; } = -1;
+        public int OrderId { get; set; } 
         public OrderEntity Order { get; set; }
 
     }

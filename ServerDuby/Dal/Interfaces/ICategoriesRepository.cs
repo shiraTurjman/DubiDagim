@@ -13,5 +13,7 @@ namespace Dal.Interfaces
         Task UpdateCategoryAsync(CategoryEntity category);
         Task DeleteCategoryAsync(int categoryId);
         Task<List<CategoryEntity>> GetAllCategoriesAsync();
+
+        Task<string> GetCategoryNameById(int categoryId);
     }
 }

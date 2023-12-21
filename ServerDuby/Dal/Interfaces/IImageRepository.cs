@@ -10,9 +10,9 @@ namespace Dal.Interfaces
 {
     public interface IImageRepository
     {
-        Task<int> AddImageAsync(IFormFile imageData);
+        Task<int> AddImageAsync(IFormFile imageData,int itemId);
         Task<byte[]> GetImageByImgIdAsync(int imgId);
-        Task<byte[]> GetImageByItemIdAsync(int itemId);
+        Task<List<byte[]>> GetImageByItemIdAsync(int itemId);
         Task DeleteImageByItemIdAsync(int itemId);
     }
 }

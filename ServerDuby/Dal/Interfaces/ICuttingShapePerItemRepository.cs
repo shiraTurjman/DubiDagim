@@ -13,7 +13,7 @@ namespace Dal.Interfaces
         Task DeleteCuttingShapePerItemByItemIdAndCuttinIdAsync(int itemId, int cuttingShapeId);
         Task DeleteCuttingShapePerItemByItemIdAsync(int itemId);
         Task DeleteCuttingShapePerItemByCuttingShapeIdAsync(int cuttingShapeId);
-        Task<List<CuttingShapePerItemEntity>> GetAllCuttingShapePerItemByItemIdAsync(int itemId);
+        Task<List<CuttingShapeEntity>> GetAllCuttingShapePerItemByItemIdAsync(int itemId);
 
 
     }

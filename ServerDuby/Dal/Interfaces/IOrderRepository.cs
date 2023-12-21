@@ -17,5 +17,8 @@ namespace Dal.Interfaces
         Task<List<OrderEntity>> GetAllOrderByUserIdAsync(int userId);
         Task<OrderEntity> GetOrderByOrderIdAsync(int orderId);
 
+        Task<int> GetOrderIdForShoppingCardAsync(int userId);
+
+        Task UpdateIsShoppingCard(int userId);
     }
 }

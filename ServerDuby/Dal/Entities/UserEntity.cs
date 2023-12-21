@@ -31,7 +31,10 @@ namespace Dal.Entity
         public string Address { get; set; } 
 
         [Required]
-        public string Phone { get; set; } 
+        public string Phone { get; set; }
+
+        
+        public int SoppingCardId { get; set; }
 
     }
 }

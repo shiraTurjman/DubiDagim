@@ -10,7 +10,7 @@ namespace Dal.Interfaces
     public interface IItemRepository
     {
         Task<int> AddItemAsync(ItemEntity item);
-        Task<int> UpdateItemAsync(ItemEntity item);
+        Task UpdateItemAsync(ItemEntity item);
         Task<int> DeleteItemAsync(int itemId);
 
         Task<List<ItemEntity>> GetAllItemAsync();
