@@ -15,7 +15,7 @@ namespace WebApi.Controllers
             _categoryService = categoryService;
         }
 
-        [HttpGet("GetAllCategoriesAsync")]
+        [HttpGet("GetAllCategories")]
         public async Task <ActionResult<List<CategoryEntity>>> getAllCategories()
         {
             try 

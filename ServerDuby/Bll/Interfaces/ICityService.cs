@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Bll.Interfaces
 {
-    public interface ICtiyService
+    public interface ICityService
     {
         Task<List<CityEntity>> GetAllCityAsync();
     }

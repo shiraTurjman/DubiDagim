@@ -46,7 +46,7 @@ namespace Dal.Repository
         {
             using var context = _factory.CreateDbContext();
             var cuttingShape = await context.CuttingShapes.ToListAsync();
-            if (cuttingShape != null)
+            if (cuttingShape.Count >= 0)
             { return cuttingShape; }
             else
             {

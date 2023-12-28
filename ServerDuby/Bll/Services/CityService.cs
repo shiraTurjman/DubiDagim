@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Bll.Services
 {
-    public class CityService : ICtiyService
+    public class CityService : ICityService
 
     {
         private readonly ICityRepository _cityRepository;

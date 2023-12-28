@@ -9,10 +9,10 @@ using System.Threading.Tasks;
 
 namespace Bll.Services
 {
-    public class OrdetService : IOrderService
+    public class OrderService : IOrderService
     {
         private readonly IOrderRepository _orderRepository;
-        public OrdetService(IOrderRepository orderRepository) {
+        public OrderService(IOrderRepository orderRepository) {
         _orderRepository = orderRepository;
 
         }

@@ -1,3 +1,4 @@
+using Bll;
 using Dal.Entity;
 using Microsoft.EntityFrameworkCore;
 
@@ -11,9 +12,10 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 
-builder.Services.AddDbContext<ServerDbContext>(
-    o => o.UseSqlServer(builder.Configuration.GetConnectionString("myContextCon"))
-    );
+//builder.Services.AddDbContext<ServerDbContext>(
+//    o => o.UseSqlServer(builder.Configuration.GetConnectionString("myContextCon"))
+//    );
+ExtensionMethod.InitDI(builder.Services, builder.Configuration.GetConnectionString("myContextCon"));
 
 
 var app = builder.Build();
@@ -24,6 +26,14 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+
+app.UseCors(options =>
+{
+    options.AllowAnyOrigin()
+        .AllowAnyHeader()
+        .AllowAnyMethod();
+});
 
 app.UseHttpsRedirection();
 

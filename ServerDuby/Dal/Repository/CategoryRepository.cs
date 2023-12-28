@@ -46,7 +46,7 @@ namespace Dal.Repository
 
             using var context = _factory.CreateDbContext();
             var list = await context.Categories.ToListAsync();
-            if (list.Count > 0)
+            if (list.Count >= 0)
                 return list;
             else
                 throw new Exception("No categories exist for the given id");
