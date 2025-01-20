@@ -10,5 +10,7 @@ namespace Dal.Interfaces
     public interface ICityRepository
     {
         Task<List<CityEntity>> GetAllCityAsync();
+
+        Task AddCityAsync(CityEntity city);
     }
 }

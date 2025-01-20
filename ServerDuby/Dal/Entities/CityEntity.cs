@@ -15,6 +15,6 @@ namespace Dal.Entity
         public int CityId { get; set; }
 
         [Required]
-        public string  CityName { get; set; }
+        public string CityName { get; set; }
     }
 }

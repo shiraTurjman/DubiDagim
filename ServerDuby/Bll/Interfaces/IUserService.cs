@@ -1,5 +1,6 @@
 ﻿using Dal.Dto;
 using Dal.Entity;
+using Dto;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,7 +11,7 @@ namespace Bll.Interfaces
 {
     public interface IUserService
     {
-        Task AddUserAsync(UserEntity user);
+        Task AddUserAsync(UserDto user);
         Task UpdateUserAsync(UserEntity user);
         Task DeleteUserAsync(int userId);
 

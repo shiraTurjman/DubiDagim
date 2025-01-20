@@ -10,5 +10,7 @@ namespace Bll.Interfaces
     public interface ICityService
     {
         Task<List<CityEntity>> GetAllCityAsync();
+
+        Task AddCityAsync(CityEntity city);
     }
 }

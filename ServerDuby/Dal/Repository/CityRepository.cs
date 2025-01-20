@@ -27,5 +27,13 @@ namespace Dal.Repository
             else
                 throw new Exception("No cities exist for the given id");
         }
+
+        public async Task AddCityAsync(CityEntity city)
+        {
+            using var context = _factory.CreateDbContext();
+            await context.AddAsync(city);
+            await context.SaveChangesAsync();
+            //throw new NotImplementedException();
+        }
     }
 }

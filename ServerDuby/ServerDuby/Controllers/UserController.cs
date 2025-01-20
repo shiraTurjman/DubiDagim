@@ -1,6 +1,7 @@
 ﻿using Bll.Interfaces;
 using Dal.Dto;
 using Dal.Entity;
+using Dto;
 using Microsoft.AspNetCore.Mvc;
 
 namespace WebApi.Controllers
@@ -16,7 +17,7 @@ namespace WebApi.Controllers
         }
         [HttpPost("AddUser")]
 
-        public async Task<ActionResult> AddUser([FromBody] UserEntity user)
+        public async Task<ActionResult> AddUser([FromBody] UserDto user)
         {
             try
             {

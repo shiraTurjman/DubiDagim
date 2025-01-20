@@ -44,6 +44,11 @@ namespace Dal.Repository
             var user = await context.Users.FirstAsync(u => u.Email.Equals(email));
             if (user != null)
             {
+                var city = await context.Cities.FirstAsync(c => c.CityId == user.CityId);
+                if (city != null)
+                {
+                    user.City = city;
+                }
                 return user;
             }
             else
@@ -86,6 +91,9 @@ namespace Dal.Repository
                 userToUpdate.UserName = user.UserName;
                 userToUpdate.Password = user.Password;
                 userToUpdate.Email = user.Email;
+                userToUpdate.Phone = user.Phone;
+                userToUpdate.Address = user.Address;
+                userToUpdate.CityId = user.CityId;
                  await context.SaveChangesAsync();
             }
             else

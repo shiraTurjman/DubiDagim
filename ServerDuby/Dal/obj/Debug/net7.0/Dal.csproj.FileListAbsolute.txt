@@ -13,7 +13,7 @@ C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\A
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\EntityFramework.SqlServer.dll
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\EntityFramework.dll
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Humanizer.dll
-C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
@@ -21,16 +21,7 @@ C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\M
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
-C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
-C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.Identity.Client.dll
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
@@ -39,6 +30,7 @@ C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\M
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.OpenApi.dll
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Mono.TextTemplating.dll
@@ -47,7 +39,6 @@ C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\S
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\System.Data.SqlClient.dll
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\System.Drawing.Common.dll
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\System.IO.Pipelines.dll
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\System.Memory.Data.dll
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\System.Runtime.Caching.dll
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
@@ -75,7 +66,8 @@ C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\obj\Debug\net7.0\D
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
-C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\obj\Debug\net7.0\Dal.csproj.CopyComplete
+C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\obj\Debug\net7.0\Dal.sourcelink.json
+C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\obj\Debug\net7.0\Dal.csproj.Up2Date
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\obj\Debug\net7.0\Dal.dll
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\obj\Debug\net7.0\refint\Dal.dll
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\obj\Debug\net7.0\Dal.pdb

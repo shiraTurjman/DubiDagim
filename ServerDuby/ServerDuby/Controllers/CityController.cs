@@ -28,5 +28,19 @@ namespace WebApi.Controllers
 
         }
 
+        [HttpPost("AddCity")]
+        public async Task<ActionResult<int>> AddCity([FromBody] CityEntity city)
+        {
+            try
+            {
+                await _cityService.AddCityAsync(city);
+                return Ok(true);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+        }
+
     }
 }

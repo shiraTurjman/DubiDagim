@@ -23,5 +23,10 @@ namespace Bll.Services
            return await _cityRepository.GetAllCityAsync();
 
         }
+
+        public async Task AddCityAsync(CityEntity city)
+        { 
+            await _cityRepository.AddCityAsync(city);
+        }
     }
 }

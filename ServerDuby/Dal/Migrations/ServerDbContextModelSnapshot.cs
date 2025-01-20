@@ -208,7 +208,7 @@ namespace Dal.Migrations
                     b.Property<bool>("IsShoppingCart")
                         .HasColumnType("bit");
 
-                    b.Property<DateTime>("OrderDate")
+                    b.Property<DateTime?>("OrderDate")
                         .HasColumnType("datetime2");
 
                     b.Property<int>("UserId")
@@ -283,7 +283,6 @@ namespace Dal.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("UserId"));
 
                     b.Property<string>("Address")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("CityId")
@@ -300,9 +299,6 @@ namespace Dal.Migrations
                     b.Property<string>("Phone")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("SoppingCardId")
-                        .HasColumnType("int");
 
                     b.Property<string>("UserName")
                         .IsRequired()

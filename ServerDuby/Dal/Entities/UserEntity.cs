@@ -27,14 +27,10 @@ namespace Dal.Entity
         public int CityId { get; set; }
         public CityEntity City { get; set; }
 
-        [Required]
-        public string Address { get; set; } 
+        public string? Address { get; set; } 
 
         [Required]
         public string Phone { get; set; }
-
-        
-        public int SoppingCardId { get; set; }
 
     }
 }

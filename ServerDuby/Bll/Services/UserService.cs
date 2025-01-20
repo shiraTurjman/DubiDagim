@@ -2,7 +2,7 @@
 using Dal.Dto;
 using Dal.Entity;
 using Dal.Interfaces;
-
+using Dto;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,13 +17,21 @@ namespace Bll.Services
         public UserService(IUserRepository userRepository) {
         _userRepository = userRepository;
 
-
         }
-        public async Task AddUserAsync(UserEntity user)
+        public async Task AddUserAsync(UserDto user)
         {
             try
             {
-                await _userRepository.AddUserAsync(user);
+                var userToAdd = new UserEntity
+                {
+                    UserName = user.userName,
+                    Email = user.email,
+                    Password = user.password,
+                    CityId = user.cityId,
+                    Address = user.address,
+                    Phone = user.phone,
+                };
+                await _userRepository.AddUserAsync(userToAdd);
             }
             catch (Exception ex)
             {
