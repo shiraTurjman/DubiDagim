@@ -1,5 +1,6 @@
 ﻿using Dal.Entity;
 using Dal.Interfaces;
+using Dto;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -17,11 +18,34 @@ namespace Dal.Repository
             _factory = factory;
         }
 
-        public async Task AddUserAsync(UserEntity user)
+        public async Task<UserDto> AddUserAsync(UserEntity user)
         {
             using var context = await _factory.CreateDbContextAsync();
+            if (user == null || string.IsNullOrEmpty(user.Email))
+            {
+                throw new Exception("Invalid user data.");
+            }
+
+            var existingUser = await context.Users.FirstOrDefaultAsync(u => u.Email == user.Email);
+            if (existingUser != null)
+            {
+                throw new Exception("User with this email already exists.");
+            }
+
+            Console.WriteLine($"Adding user to DB: {user.Email}");
+
             await context.Users.AddAsync(user);
             await context.SaveChangesAsync();
+
+            return new UserDto
+            {
+                userId = user.UserId,
+                userName = user.UserName,
+                email = user.Email,
+                phone = user.Phone,
+                cityId = user.CityId,
+                address = user.Address
+            };
 
         }
 

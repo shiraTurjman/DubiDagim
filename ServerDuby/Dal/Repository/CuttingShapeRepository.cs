@@ -71,7 +71,8 @@ namespace Dal.Repository
             var cuttingToUpdate = context.CuttingShapes.FirstOrDefault(c=>c.CuttingShapeId==cuttingShape.CuttingShapeId);
             if (cuttingToUpdate != null)
             {
-                cuttingToUpdate.ShapeName = cuttingShape.ShapeName;
+                cuttingToUpdate.ShapeEnName = cuttingShape.ShapeEnName;
+                cuttingToUpdate.ShapeHeName = cuttingShape.ShapeHeName;
                 cuttingToUpdate.Details = cuttingShape.Details;
                 await context.SaveChangesAsync();
             }

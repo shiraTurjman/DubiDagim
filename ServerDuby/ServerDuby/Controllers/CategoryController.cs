@@ -29,6 +29,20 @@ namespace WebApi.Controllers
             }
             
         }
+
+        [HttpGet("GetCategoryById/{id}")]
+        public async Task<ActionResult<CategoryEntity>> getCategoryById(int id)
+        {
+            try
+            {
+                return Ok(await _categoryService.GetCategoryByIdAsync(id));
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+        }
+
         [HttpPost("AddCategory")]
         public async Task<ActionResult<int>> AddCategory([FromBody] CategoryEntity category)
         {

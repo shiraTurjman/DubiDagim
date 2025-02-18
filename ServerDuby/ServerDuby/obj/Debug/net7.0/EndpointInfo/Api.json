@@ -43,6 +43,47 @@
         }
       }
     },
+    "/api/Category/GetCategoryById/{id}": {
+      "get": {
+        "tags": [
+          "Category"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "style": "simple",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/CategoryEntity"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CategoryEntity"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CategoryEntity"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/api/Category/AddCategory": {
       "post": {
         "tags": [
@@ -597,51 +638,10 @@
               "schema": {
                 "type": "object",
                 "properties": {
-                  "ContentType": {
-                    "type": "string"
-                  },
-                  "ContentDisposition": {
-                    "type": "string"
-                  },
-                  "Headers": {
-                    "type": "object",
-                    "additionalProperties": {
-                      "type": "array",
-                      "items": {
-                        "type": "string"
-                      }
-                    }
-                  },
-                  "Length": {
-                    "type": "integer",
-                    "format": "int64"
-                  },
-                  "Name": {
-                    "type": "string"
-                  },
-                  "FileName": {
-                    "type": "string"
+                  "file": {
+                    "type": "string",
+                    "format": "binary"
                   }
-                }
-              },
-              "encoding": {
-                "ContentType": {
-                  "style": "form"
-                },
-                "ContentDisposition": {
-                  "style": "form"
-                },
-                "Headers": {
-                  "style": "form"
-                },
-                "Length": {
-                  "style": "form"
-                },
-                "Name": {
-                  "style": "form"
-                },
-                "FileName": {
-                  "style": "form"
                 }
               }
             }
@@ -804,24 +804,44 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/ItemEntity"
+                "$ref": "#/components/schemas/AddItemDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/ItemEntity"
+                "$ref": "#/components/schemas/AddItemDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/ItemEntity"
+                "$ref": "#/components/schemas/AddItemDto"
               }
             }
           }
         },
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              }
+            }
           }
         }
       }
@@ -1581,7 +1601,24 @@
         },
         "responses": {
           "200": {
-            "description": "Success"
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/UserDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/UserDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/UserDto"
+                }
+              }
+            }
           }
         }
       }
@@ -1733,10 +1770,46 @@
   },
   "components": {
     "schemas": {
+      "AddItemDto": {
+        "type": "object",
+        "properties": {
+          "itemId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "itemEnName": {
+            "type": "string",
+            "nullable": true
+          },
+          "itemHeName": {
+            "type": "string",
+            "nullable": true
+          },
+          "price": {
+            "type": "number",
+            "format": "double"
+          },
+          "categoryId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "details": {
+            "type": "string",
+            "nullable": true
+          },
+          "averageSize": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
       "CategoryEntity": {
         "required": [
+          "categoryEnName",
+          "categoryHeName",
           "categoryId",
-          "categoryName",
           "icon"
         ],
         "type": "object",
@@ -1745,13 +1818,21 @@
             "type": "integer",
             "format": "int32"
           },
-          "categoryName": {
+          "categoryEnName": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "categoryHeName": {
             "minLength": 1,
             "type": "string"
           },
           "icon": {
             "minLength": 1,
             "type": "string"
+          },
+          "details": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false
@@ -1778,7 +1859,8 @@
         "required": [
           "cuttingShapeId",
           "details",
-          "shapeName"
+          "shapeEnName",
+          "shapeHeName"
         ],
         "type": "object",
         "properties": {
@@ -1786,7 +1868,11 @@
             "type": "integer",
             "format": "int32"
           },
-          "shapeName": {
+          "shapeEnName": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "shapeHeName": {
             "minLength": 1,
             "type": "string"
           },
@@ -1833,7 +1919,11 @@
             "type": "integer",
             "format": "int32"
           },
-          "itemName": {
+          "itemEnName": {
+            "type": "string",
+            "nullable": true
+          },
+          "itemHeName": {
             "type": "string",
             "nullable": true
           },
@@ -1858,11 +1948,8 @@
             "format": "double"
           },
           "images": {
-            "type": "array",
-            "items": {
-              "type": "string",
-              "format": "byte"
-            },
+            "type": "string",
+            "format": "byte",
             "nullable": true
           }
         },
@@ -1872,8 +1959,9 @@
         "required": [
           "averageSize",
           "categoryId",
+          "itemEnName",
+          "itemHeName",
           "itemId",
-          "itemName",
           "price"
         ],
         "type": "object",
@@ -1882,7 +1970,11 @@
             "type": "integer",
             "format": "int32"
           },
-          "itemName": {
+          "itemEnName": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "itemHeName": {
             "minLength": 1,
             "type": "string"
           },
@@ -2078,7 +2170,8 @@
         "properties": {
           "userId": {
             "type": "integer",
-            "format": "int32"
+            "format": "int32",
+            "nullable": true
           },
           "userName": {
             "type": "string",
@@ -2094,7 +2187,8 @@
           },
           "cityId": {
             "type": "integer",
-            "format": "int32"
+            "format": "int32",
+            "nullable": true
           },
           "address": {
             "type": "string",
@@ -2109,7 +2203,6 @@
       },
       "UserEntity": {
         "required": [
-          "cityId",
           "email",
           "password",
           "phone",
@@ -2137,7 +2230,8 @@
           },
           "cityId": {
             "type": "integer",
-            "format": "int32"
+            "format": "int32",
+            "nullable": true
           },
           "city": {
             "$ref": "#/components/schemas/CityEntity"

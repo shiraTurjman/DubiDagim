@@ -1227,6 +1227,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "Dto": "1.0.0",
           "EntityFramework": "6.4.4",
           "Microsoft.AspNetCore.Http.Features": "5.0.17",
           "Microsoft.AspNetCore.OpenApi": "7.0.0",

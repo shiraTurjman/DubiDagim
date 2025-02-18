@@ -13,7 +13,7 @@ namespace Bll.Interfaces
         Task UpdateCategoryAsync(CategoryEntity category);
         Task DeleteCategoryAsync(int categoryId);
         Task<List<CategoryEntity>> GetAllCategoriesAsync();
-
+        Task<CategoryEntity> GetCategoryByIdAsync(int id);
         Task<string> GetCategoryNameById(int categoryId);
     }
 }

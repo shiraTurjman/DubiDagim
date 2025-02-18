@@ -73,3 +73,5 @@ C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\obj\Debug\net7.0\r
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\obj\Debug\net7.0\Dal.pdb
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
 C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\obj\Debug\net7.0\ref\Dal.dll
+C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Dto.dll
+C:\Users\s0527\Desktop\website ariel\DubiDagim\ServerDuby\Dal\bin\Debug\net7.0\Dto.pdb

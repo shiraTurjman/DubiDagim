@@ -17,6 +17,7 @@ namespace Api.Controllers
         //Add item 
 
         [HttpPost("AddImage/{itemId}")]
+        [Consumes("multipart/form-data")]
         public async Task<ActionResult<int>> AddImage([FromForm] IFormFile file,int itemId)
         {
             string name = file.FileName;

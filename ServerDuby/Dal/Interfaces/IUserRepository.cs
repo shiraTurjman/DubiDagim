@@ -1,4 +1,5 @@
 ﻿using Dal.Entity;
+using Dto;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,7 @@ namespace Dal.Interfaces
 {
     public interface IUserRepository
     {
-        Task AddUserAsync(UserEntity user);
+        Task<UserDto> AddUserAsync(UserEntity user);
         Task UpdateUserAsync(UserEntity user);
         Task DeleteUserAsync(int userId);
 

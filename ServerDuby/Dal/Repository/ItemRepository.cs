@@ -92,7 +92,8 @@ namespace Dal.Repository
             var itemToUpdate = dbContext.Items.FirstOrDefault(i => i.ItemId == item.ItemId);
             if (itemToUpdate != null)
             {
-                itemToUpdate.ItemName = item.ItemName;
+                itemToUpdate.ItemEnName = item.ItemEnName;
+                itemToUpdate.ItemHeName = item.ItemHeName;
                 itemToUpdate.Price = item.Price;
                 itemToUpdate.Details = item.Details;
                 itemToUpdate.AverageSize = item.AverageSize;

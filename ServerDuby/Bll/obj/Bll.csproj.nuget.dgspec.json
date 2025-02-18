@@ -121,7 +121,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\Dto.csproj": {
+                "projectPath": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\Dto.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -249,20 +253,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.20, 7.0.20]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

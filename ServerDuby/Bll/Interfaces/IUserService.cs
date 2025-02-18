@@ -11,7 +11,7 @@ namespace Bll.Interfaces
 {
     public interface IUserService
     {
-        Task AddUserAsync(UserDto user);
+        Task<UserDto> AddUserAsync(UserDto user);
         Task UpdateUserAsync(UserEntity user);
         Task DeleteUserAsync(int userId);
 

@@ -21,9 +21,18 @@ namespace Bll.Services
             _categoryService = categoryService;
         }
 
-        public async Task<int> AddItemAsync(ItemEntity item)
+        public async Task<int> AddItemAsync(AddItemDto item)
         {
-           return await _itemRepository.AddItemAsync(item);
+            var itemToAdd = new ItemEntity 
+            {
+                ItemEnName = item.ItemEnName,
+                ItemHeName = item.ItemHeName,
+                Price = item.Price,
+                CategoryId = item.CategoryId,
+                Details = item.Details,
+                AverageSize = item.AverageSize,
+            };
+           return await _itemRepository.AddItemAsync(itemToAdd);
         }
 
         public async Task<int> DeleteItemAsync(int itemId)
@@ -39,13 +48,14 @@ namespace Bll.Services
             var itemTemp = await _itemRepository.GetAllItemAsync();
             foreach ( var item in itemTemp ) 
             {
-                List<byte[]> images = new List<byte[]>();
-                images = await _imageService.GetImageByItemIdAsync(item.ItemId);
+                //List<byte[]> images = new List<byte[]>();
+                byte[] images = await _imageService.GetFirstImageByItemIdAsync(item.ItemId);
                 var categoryName = await _categoryService.GetCategoryNameById(item.CategoryId);
                 result.Add(new ItemDto()
                 {
                     ItemId = item.ItemId,
-                    ItemName =item.ItemName,
+                    ItemEnName =item.ItemEnName,
+                    ItemHeName =item.ItemHeName,
                     Price = item.Price,
                     CategoryId = item.CategoryId,
                     CategoryName = categoryName,
@@ -67,18 +77,20 @@ namespace Bll.Services
             var categoryName = await _categoryService.GetCategoryNameById(categoryId);
             foreach ( var item in itemTemp )
             {
-                List<byte[]> images = new List<byte[]>();
-                images = await _imageService.GetImageByItemIdAsync(item.ItemId);
+                //List<byte[]> images = new List<byte[]>();
+                //images = await _imageService.GetImageByItemIdAsync(item.ItemId);
+                byte[] image = await _imageService.GetFirstImageByItemIdAsync(item.ItemId);
                 result.Add(new ItemDto()
                 {
                     ItemId = item.ItemId,
-                    ItemName = item.ItemName,
+                    ItemEnName = item.ItemEnName,
+                    ItemHeName = item.ItemHeName,
                     Price = item.Price,
                     CategoryId = item.CategoryId,
                     CategoryName = categoryName,
                     Details = item.Details,
                     AverageSize = item.AverageSize,
-                    Images = images
+                    Images = image
 
                 }); ;
             }
@@ -89,11 +101,12 @@ namespace Bll.Services
         public async Task<ItemDto> GetItemByItemIdAsync(int itemId)
         {
             ItemDto result = new ItemDto();
-            List<byte[]> images = new List<byte[]>();
-            images = await _imageService.GetImageByItemIdAsync(itemId);
+            //List<byte[]> images = new List<byte[]>();
+            byte[] images = await _imageService.GetFirstImageByItemIdAsync(itemId);
             var itemTemp= await _itemRepository.GetItemByItemIdAsync(itemId);
             result.ItemId = itemId;
-            result.ItemName = itemTemp.ItemName;
+            result.ItemEnName = itemTemp.ItemEnName;
+            result.ItemHeName = itemTemp.ItemHeName;
             result.Price = itemTemp.Price;
             result.CategoryId = itemTemp.CategoryId;
             result.CategoryName = await _categoryService.GetCategoryNameById(itemTemp.CategoryId);

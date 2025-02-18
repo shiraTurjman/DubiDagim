@@ -53,6 +53,16 @@ namespace Dal.Repository
 
         }
 
+        public async Task<CategoryEntity> GetCategoryByIdAsync(int id)
+        {
+            using var context = _factory.CreateDbContext();
+            var category = context.Categories.FirstOrDefault(c => c.CategoryId == id);
+            if (category != null)
+                return category;
+            else
+                throw new Exception("category not found");
+
+        }
        public async Task UpdateCategoryAsync(CategoryEntity category)
         {
             using var context = _factory.CreateDbContext();
@@ -60,7 +70,9 @@ namespace Dal.Repository
             if (categoryToUpdate != null)
             {//לעשות המרה לבד כדי לא לאבד מצביע 
                 categoryToUpdate.CategoryId = category.CategoryId;
-                categoryToUpdate.CategoryName = category.CategoryName;
+                categoryToUpdate.CategoryEnName = category.CategoryEnName;
+                categoryToUpdate.CategoryHeName = category.CategoryHeName;
+                categoryToUpdate.Details = category.Details;
                 categoryToUpdate.Icon = category.Icon;
                 await context.SaveChangesAsync();
             }
@@ -75,7 +87,7 @@ namespace Dal.Repository
             using var context = _factory.CreateDbContext();
             var category = await context.Categories.FirstOrDefaultAsync(c => c.CategoryId == categoryId);
             if (category != null)
-                return category.CategoryName;
+                return category.CategoryEnName +' '+ category.CategoryHeName;
             else
                 throw new Exception("this category not found");
         }

@@ -3,64 +3,192 @@
   "WorkspaceRootPath": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\entities\\cuttingshapeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\cuttingshapeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\entities\\itementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\itementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\serverduby\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|solutionrelative:serverduby\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\serverduby\\controllers\\sameitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|solutionrelative:serverduby\\controllers\\sameitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Migrations\\20250120121243_changeOrderDateToNull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dal\\Migrations\\20250120121243_changeOrderDateToNull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\entities\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\serverduby\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|solutionrelative:serverduby\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Migrations\\20250120110115_changeAddressToNull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dal\\Migrations\\20250120110115_changeAddressToNull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\entities\\saleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\saleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\entities\\cuttingshapeperitementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\cuttingshapeperitementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\entities\\iteminshoppingcartentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\iteminshoppingcartentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\entities\\serverdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\serverdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\entities\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\entities\\saleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\saleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dto\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|solutionrelative:dto\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\repository\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\repository\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\interfaces\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\interfaces\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\interfaces\\iiteminshoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\interfaces\\iiteminshoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\services\\imagesarvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\services\\imagesarvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\interfaces\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\interfaces\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\serverduby\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|solutionrelative:serverduby\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\serverduby\\swagger\\swaggerfileuploadoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|solutionrelative:serverduby\\swagger\\swaggerfileuploadoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\serverduby\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|solutionrelative:serverduby\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\serverduby\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|solutionrelative:serverduby\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\serverduby\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|solutionrelative:serverduby\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\serverduby\\controllers\\iteminshoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|solutionrelative:serverduby\\controllers\\iteminshoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dto\\additemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|solutionrelative:dto\\additemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\serverduby\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|solutionrelative:serverduby\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\interfaces\\icategoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\interfaces\\icategoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\migrations\\20250205140037_updatecitynotnull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\migrations\\20250205140037_updatecitynotnull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\entities\\cityentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\cityentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\services\\cuttingshapeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\services\\cuttingshapeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\repository\\salerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\repository\\salerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\repository\\cuttingshaperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\repository\\cuttingshaperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\repository\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\repository\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\entities\\categoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\categoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\migrations\\20250205120821_updatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\migrations\\20250205120821_updatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\entities\\imagedetailsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\imagedetailsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\interfaces\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\interfaces\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\entities\\serverdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\serverdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\entities\\imageuploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\imageuploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\serverduby\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|solutionrelative:serverduby\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\serverduby\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -71,44 +199,16 @@
       "RelativeMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|solutionrelative:serverduby\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\serverduby\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|solutionrelative:serverduby\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\interfaces\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\interfaces\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\repository\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\repository\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\interfaces\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\interfaces\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\interfaces\\icategoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\interfaces\\icategoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\entities\\cityentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\cityentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\services\\sameitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -123,16 +223,8 @@
       "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\interfaces\\isameitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\serverduby\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|solutionrelative:serverduby\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\interfaces\\isaleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\interfaces\\isaleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\serverduby\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|solutionrelative:serverduby\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -147,28 +239,8 @@
       "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\interfaces\\iiteminshoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\serverduby\\controllers\\iteminshoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|solutionrelative:serverduby\\controllers\\iteminshoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\interfaces\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\interfaces\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\serverduby\\controllers\\cuttingshapecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|solutionrelative:serverduby\\controllers\\cuttingshapecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\repository\\cuttingshaperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\repository\\cuttingshaperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\interfaces\\icuttingshapeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\interfaces\\icuttingshapeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\serverduby\\controllers\\cuttingshapeperitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C850DEBB-E748-4681-B7DC-E9DB3811F0DA}|ServerDuby\\Api.csproj|solutionrelative:serverduby\\controllers\\cuttingshapeperitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\extensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -195,24 +267,8 @@
       "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\services\\iteminshoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\services\\imagesarvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\services\\imagesarvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\entities\\itementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\entities\\itementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\services\\cuttingshapeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\services\\cuttingshapeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\interfaces\\icuttingshapeperitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\interfaces\\icuttingshapeperitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\interfaces\\isameitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -227,16 +283,16 @@
       "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\interfaces\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\interfaces\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\interfaces\\iiteminshoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\interfaces\\iiteminshoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\migrations\\20250120121243_changeorderdatetonull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\migrations\\20250120121243_changeorderdatetonull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\migrations\\20250120110115_changeaddresstonull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\migrations\\20250120110115_changeaddresstonull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -245,142 +301,38 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 383,
+          "DockedWidth": 177,
           "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserEntity.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\UserEntity.cs",
-              "RelativeDocumentMoniker": "Dal\\Entities\\UserEntity.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\UserEntity.cs",
-              "RelativeToolTip": "Dal\\Entities\\UserEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T12:33:18.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250120121243_changeOrderDateToNull.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Migrations\\20250120121243_changeOrderDateToNull.cs",
-              "RelativeDocumentMoniker": "Dal\\Migrations\\20250120121243_changeOrderDateToNull.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Migrations\\20250120121243_changeOrderDateToNull.cs",
-              "RelativeToolTip": "Dal\\Migrations\\20250120121243_changeOrderDateToNull.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAwBUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T12:12:43.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "ServerDuby\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\UserController.cs",
-              "RelativeToolTip": "ServerDuby\\Controllers\\UserController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEQAAAA/AAAAAAAAAA==",
+              "Title": "CuttingShapePerItemEntity.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\CuttingShapePerItemEntity.cs",
+              "RelativeDocumentMoniker": "Dal\\Entities\\CuttingShapePerItemEntity.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\CuttingShapePerItemEntity.cs",
+              "RelativeToolTip": "Dal\\Entities\\CuttingShapePerItemEntity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T10:19:28.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ServerDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\ServerDbContext.cs",
-              "RelativeDocumentMoniker": "Dal\\Entities\\ServerDbContext.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\ServerDbContext.cs",
-              "RelativeToolTip": "Dal\\Entities\\ServerDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T09:55:16.702Z",
+              "WhenOpened": "2025-02-12T15:23:24.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\UserDto.cs",
-              "RelativeDocumentMoniker": "Dto\\UserDto.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\UserDto.cs",
-              "RelativeToolTip": "Dto\\UserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Title": "ItemInShoppingCartEntity.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\ItemInShoppingCartEntity.cs",
+              "RelativeDocumentMoniker": "Dal\\Entities\\ItemInShoppingCartEntity.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\ItemInShoppingCartEntity.cs",
+              "RelativeToolTip": "Dal\\Entities\\ItemInShoppingCartEntity.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T09:16:34.264Z",
+              "WhenOpened": "2023-12-06T10:10:14.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Bll\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\UserService.cs",
-              "RelativeToolTip": "Bll\\Services\\UserService.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-21T10:20:27.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Dal\\Repository\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "Dal\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T11:01:54.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\ItemDto.cs",
-              "RelativeDocumentMoniker": "Dto\\ItemDto.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\ItemDto.cs",
-              "RelativeToolTip": "Dto\\ItemDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T10:19:56.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20250120110115_changeAddressToNull.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Migrations\\20250120110115_changeAddressToNull.cs",
-              "RelativeDocumentMoniker": "Dal\\Migrations\\20250120110115_changeAddressToNull.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Migrations\\20250120110115_changeAddressToNull.cs",
-              "RelativeToolTip": "Dal\\Migrations\\20250120110115_changeAddressToNull.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T11:01:16.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\appsettings.json",
-              "RelativeDocumentMoniker": "ServerDuby\\appsettings.json",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\appsettings.json",
-              "RelativeToolTip": "ServerDuby\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-20T11:07:38.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "OrderEntity.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\OrderEntity.cs",
               "RelativeDocumentMoniker": "Dal\\Entities\\OrderEntity.cs",
@@ -393,20 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ItemInShoppingCartEntity.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\ItemInShoppingCartEntity.cs",
-              "RelativeDocumentMoniker": "Dal\\Entities\\ItemInShoppingCartEntity.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\ItemInShoppingCartEntity.cs",
-              "RelativeToolTip": "Dal\\Entities\\ItemInShoppingCartEntity.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-06T10:10:14.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "SaleEntity.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\SaleEntity.cs",
               "RelativeDocumentMoniker": "Dal\\Entities\\SaleEntity.cs",
@@ -419,81 +358,139 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemEntity.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\ItemEntity.cs",
+              "RelativeDocumentMoniker": "Dal\\Entities\\ItemEntity.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\ItemEntity.cs",
+              "RelativeToolTip": "Dal\\Entities\\ItemEntity.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T10:23:38.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "Dal\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "Dal\\Entities\\UserEntity.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:33:18.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CuttingShapeEntity.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\CuttingShapeEntity.cs",
+              "RelativeDocumentMoniker": "Dal\\Entities\\CuttingShapeEntity.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\CuttingShapeEntity.cs",
+              "RelativeToolTip": "Dal\\Entities\\CuttingShapeEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:48:21.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\ItemService.cs",
+              "RelativeDocumentMoniker": "Bll\\Services\\ItemService.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\ItemService.cs",
+              "RelativeToolTip": "Bll\\Services\\ItemService.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:37:15.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repository\\ItemRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\ItemRepository.cs",
+              "RelativeToolTip": "Dal\\Repository\\ItemRepository.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:32:50.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\ItemDto.cs",
+              "RelativeDocumentMoniker": "Dto\\ItemDto.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\ItemDto.cs",
+              "RelativeToolTip": "Dto\\ItemDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:19:56.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\ImageRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repository\\ImageRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\ImageRepository.cs",
+              "RelativeToolTip": "Dal\\Repository\\ImageRepository.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAwGwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:26:19.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\IImageRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Interfaces\\IImageRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\IImageRepository.cs",
+              "RelativeToolTip": "Dal\\Interfaces\\IImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:24:35.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IItemInShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\IItemInShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Interfaces\\IItemInShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\IItemInShoppingCartRepository.cs",
+              "RelativeToolTip": "Dal\\Interfaces\\IItemInShoppingCartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-05T11:39:44.846Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "SaleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\SaleRepository.cs",
-              "RelativeDocumentMoniker": "Dal\\Repository\\SaleRepository.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\SaleRepository.cs",
-              "RelativeToolTip": "Dal\\Repository\\SaleRepository.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGUAAAAgAAAAAAAAAA==",
+              "Title": "IImageService.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\IImageService.cs",
+              "RelativeDocumentMoniker": "Bll\\Interfaces\\IImageService.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\IImageService.cs",
+              "RelativeToolTip": "Bll\\Interfaces\\IImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-18T18:37:14.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-05T11:40:03.288Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Api",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Api.csproj",
-              "RelativeDocumentMoniker": "ServerDuby\\Api.csproj",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Api.csproj",
-              "RelativeToolTip": "ServerDuby\\Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-20T10:07:44.044Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CityRepository.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\CityRepository.cs",
-              "RelativeDocumentMoniker": "Dal\\Repository\\CityRepository.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\CityRepository.cs",
-              "RelativeToolTip": "Dal\\Repository\\CityRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwB4AAAAmAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "ImageSarvice.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\ImageSarvice.cs",
+              "RelativeDocumentMoniker": "Bll\\Services\\ImageSarvice.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\ImageSarvice.cs",
+              "RelativeToolTip": "Bll\\Services\\ImageSarvice.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-21T11:25:01.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CityService.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\CityService.cs",
-              "RelativeDocumentMoniker": "Bll\\Services\\CityService.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\CityService.cs",
-              "RelativeToolTip": "Bll\\Services\\CityService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-05T12:01:21.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ICityService.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\ICityService.cs",
-              "RelativeDocumentMoniker": "Bll\\Interfaces\\ICityService.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\ICityService.cs",
-              "RelativeToolTip": "Bll\\Interfaces\\ICityService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-05T12:04:21.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Dal\\Repository\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\CategoryRepository.cs",
-              "RelativeToolTip": "Dal\\Repository\\CategoryRepository.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBIAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-17T11:30:16.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-05T13:46:05.259Z"
             },
             {
               "$type": "Document",
@@ -503,339 +500,181 @@
               "RelativeDocumentMoniker": "ServerDuby\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "ServerDuby\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T09:24:08.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T09:24:08.451Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "Bll\\Services\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\CategoryService.cs",
-              "RelativeToolTip": "Bll\\Services\\CategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABDAAAAAAAAAA==",
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "ServerDuby\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "ServerDuby\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-05T11:51:58.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T13:31:42.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\AddItemDto.cs",
+              "RelativeDocumentMoniker": "Dto\\AddItemDto.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\AddItemDto.cs",
+              "RelativeToolTip": "Dto\\AddItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T20:57:43.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "ServerDuby\\Controllers\\ImageController.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "ServerDuby\\Controllers\\ImageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:22:40.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Program.cs",
+              "RelativeDocumentMoniker": "ServerDuby\\Program.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Program.cs",
+              "RelativeToolTip": "ServerDuby\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:30:32.957Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "CityController.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\CityController.cs",
-              "RelativeDocumentMoniker": "ServerDuby\\Controllers\\CityController.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\CityController.cs",
-              "RelativeToolTip": "ServerDuby\\Controllers\\CityController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBYAAAANAAAAAAAAAA==",
+              "Title": "SwaggerFileUploadOperationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\swagger\\SwaggerFileUploadOperationFilter.cs",
+              "RelativeDocumentMoniker": "ServerDuby\\swagger\\SwaggerFileUploadOperationFilter.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\swagger\\SwaggerFileUploadOperationFilter.cs",
+              "RelativeToolTip": "ServerDuby\\swagger\\SwaggerFileUploadOperationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-28T10:14:42.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T15:34:33.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ItemInShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\ItemInShoppingCartController.cs",
+              "RelativeDocumentMoniker": "ServerDuby\\Controllers\\ItemInShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\ItemInShoppingCartController.cs",
+              "RelativeToolTip": "ServerDuby\\Controllers\\ItemInShoppingCartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:40:21.833Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "ICityRepository.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\ICityRepository.cs",
-              "RelativeDocumentMoniker": "Dal\\Interfaces\\ICityRepository.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\ICityRepository.cs",
-              "RelativeToolTip": "Dal\\Interfaces\\ICityRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T09:17:15.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ICategoriesRepository.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\ICategoriesRepository.cs",
-              "RelativeDocumentMoniker": "Dal\\Interfaces\\ICategoriesRepository.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\ICategoriesRepository.cs",
-              "RelativeToolTip": "Dal\\Interfaces\\ICategoriesRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T09:17:31.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CityEntity.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\CityEntity.cs",
-              "RelativeDocumentMoniker": "Dal\\Entities\\CityEntity.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\CityEntity.cs",
-              "RelativeToolTip": "Dal\\Entities\\CityEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T09:16:57.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\LoginDto.cs",
               "RelativeDocumentMoniker": "Dto\\LoginDto.cs",
               "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\LoginDto.cs",
               "RelativeToolTip": "Dto\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-21T11:11:55.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-21T11:11:55.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "SameItemRepository.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\SameItemRepository.cs",
-              "RelativeDocumentMoniker": "Dal\\Repository\\SameItemRepository.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\SameItemRepository.cs",
-              "RelativeToolTip": "Dal\\Repository\\SameItemRepository.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAuwFEAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "IItemService.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\IItemService.cs",
+              "RelativeDocumentMoniker": "Bll\\Interfaces\\IItemService.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\IItemService.cs",
+              "RelativeToolTip": "Bll\\Interfaces\\IItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-18T18:37:13.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T11:35:53.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "SameItemService.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\SameItemService.cs",
-              "RelativeDocumentMoniker": "Bll\\Services\\SameItemService.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\SameItemService.cs",
-              "RelativeToolTip": "Bll\\Services\\SameItemService.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAwDoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\UserDto.cs",
+              "RelativeToolTip": "Dto\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-20T07:40:54.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T09:16:34.264Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "ISameItemService.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\ISameItemService.cs",
-              "RelativeDocumentMoniker": "Bll\\Interfaces\\ISameItemService.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\ISameItemService.cs",
-              "RelativeToolTip": "Bll\\Interfaces\\ISameItemService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBQAAAABAAAAAAAAAA==",
+              "Title": "ICategoriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\ICategoriesRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Interfaces\\ICategoriesRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\ICategoriesRepository.cs",
+              "RelativeToolTip": "Dal\\Interfaces\\ICategoriesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-05T11:43:48.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T09:17:31.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ISaleService.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\ISaleService.cs",
-              "RelativeDocumentMoniker": "Bll\\Interfaces\\ISaleService.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\ISaleService.cs",
-              "RelativeToolTip": "Bll\\Interfaces\\ISaleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAArAAAAAAAAAA==",
+              "DocumentIndex": 26,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Bll\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Bll\\Services\\CategoryService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-05T11:42:16.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-05T11:51:58.401Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\IOrderService.cs",
-              "RelativeDocumentMoniker": "Bll\\Interfaces\\IOrderService.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\IOrderService.cs",
-              "RelativeToolTip": "Bll\\Interfaces\\IOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBUAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 30,
+              "Title": "20250205140037_updateCityNotnull.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Migrations\\20250205140037_updateCityNotnull.cs",
+              "RelativeDocumentMoniker": "Dal\\Migrations\\20250205140037_updateCityNotnull.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Migrations\\20250205140037_updateCityNotnull.cs",
+              "RelativeToolTip": "Dal\\Migrations\\20250205140037_updateCityNotnull.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-05T11:41:34.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T14:00:37.878Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "Bll\\Services\\OrderService.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\OrderService.cs",
-              "RelativeToolTip": "Bll\\Services\\OrderService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwBUAAAAwAAAAAAAAAA==",
+              "DocumentIndex": 27,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Bll\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "Bll\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-21T10:19:37.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T13:29:13.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "IItemInShoppingCartService.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\IItemInShoppingCartService.cs",
-              "RelativeDocumentMoniker": "Bll\\Interfaces\\IItemInShoppingCartService.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\IItemInShoppingCartService.cs",
-              "RelativeToolTip": "Bll\\Interfaces\\IItemInShoppingCartService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 25,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ServerDuby\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ServerDuby\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-05T11:39:42.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T10:19:28.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "IImageService.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\IImageService.cs",
-              "RelativeDocumentMoniker": "Bll\\Interfaces\\IImageService.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\IImageService.cs",
-              "RelativeToolTip": "Bll\\Interfaces\\IImageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-05T11:40:03.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "CuttingShapeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\CuttingShapeRepository.cs",
-              "RelativeDocumentMoniker": "Dal\\Repository\\CuttingShapeRepository.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\CuttingShapeRepository.cs",
-              "RelativeToolTip": "Dal\\Repository\\CuttingShapeRepository.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwDAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-05T13:12:40.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "ICuttingShapeService.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\ICuttingShapeService.cs",
-              "RelativeDocumentMoniker": "Bll\\Interfaces\\ICuttingShapeService.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\ICuttingShapeService.cs",
-              "RelativeToolTip": "Bll\\Interfaces\\ICuttingShapeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-24T12:41:14.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "ItemInShoppingCartRepository.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\ItemInShoppingCartRepository.cs",
-              "RelativeDocumentMoniker": "Dal\\Repository\\ItemInShoppingCartRepository.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\ItemInShoppingCartRepository.cs",
-              "RelativeToolTip": "Dal\\Repository\\ItemInShoppingCartRepository.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBYAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-06T08:49:12.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Program.cs",
-              "RelativeDocumentMoniker": "Bll\\Program.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Program.cs",
-              "RelativeToolTip": "Bll\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-04T12:02:21.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "ExtensionMethod.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\ExtensionMethod.cs",
-              "RelativeDocumentMoniker": "Bll\\ExtensionMethod.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\ExtensionMethod.cs",
-              "RelativeToolTip": "Bll\\ExtensionMethod.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBZwDQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-24T10:26:07.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "Dal\\Repository\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\OrderRepository.cs",
-              "RelativeToolTip": "Dal\\Repository\\OrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-21T11:25:15.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "CuttingShapePerItemRepository.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\CuttingShapePerItemRepository.cs",
-              "RelativeDocumentMoniker": "Dal\\Repository\\CuttingShapePerItemRepository.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\CuttingShapePerItemRepository.cs",
-              "RelativeToolTip": "Dal\\Repository\\CuttingShapePerItemRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBZwFYAAACBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-05T13:14:58.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "SaleService.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\SaleService.cs",
-              "RelativeDocumentMoniker": "Bll\\Services\\SaleService.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\SaleService.cs",
-              "RelativeToolTip": "Bll\\Services\\SaleService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAlwCgAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-21T10:19:38.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "ItemInShoppingCartService.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\ItemInShoppingCartService.cs",
-              "RelativeDocumentMoniker": "Bll\\Services\\ItemInShoppingCartService.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\ItemInShoppingCartService.cs",
-              "RelativeToolTip": "Bll\\Services\\ItemInShoppingCartService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-06T08:45:34.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "ImageSarvice.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\ImageSarvice.cs",
-              "RelativeDocumentMoniker": "Bll\\Services\\ImageSarvice.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\ImageSarvice.cs",
-              "RelativeToolTip": "Bll\\Services\\ImageSarvice.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-05T13:46:05.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "ItemEntity.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\ItemEntity.cs",
-              "RelativeDocumentMoniker": "Dal\\Entities\\ItemEntity.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\ItemEntity.cs",
-              "RelativeToolTip": "Dal\\Entities\\ItemEntity.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAiwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-17T10:23:38.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 32,
               "Title": "CuttingShapeService.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\CuttingShapeService.cs",
               "RelativeDocumentMoniker": "Bll\\Services\\CuttingShapeService.cs",
@@ -843,12 +682,467 @@
               "RelativeToolTip": "Bll\\Services\\CuttingShapeService.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-05T13:21:57.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-05T13:21:57.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Dal\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T11:30:16.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CityEntity.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\CityEntity.cs",
+              "RelativeDocumentMoniker": "Dal\\Entities\\CityEntity.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\CityEntity.cs",
+              "RelativeToolTip": "Dal\\Entities\\CityEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:16:57.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Dal\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvy0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:01:54.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SaleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\SaleRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repository\\SaleRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\SaleRepository.cs",
+              "RelativeToolTip": "Dal\\Repository\\SaleRepository.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-18T18:37:14.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CuttingShapeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\CuttingShapeRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repository\\CuttingShapeRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\CuttingShapeRepository.cs",
+              "RelativeToolTip": "Dal\\Repository\\CuttingShapeRepository.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-05T13:12:40.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\CityRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repository\\CityRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\CityRepository.cs",
+              "RelativeToolTip": "Dal\\Repository\\CityRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T11:25:01.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CategoryEntity.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\CategoryEntity.cs",
+              "RelativeDocumentMoniker": "Dal\\Entities\\CategoryEntity.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\CategoryEntity.cs",
+              "RelativeToolTip": "Dal\\Entities\\CategoryEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:15:51.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20250205120821_UpdateDB.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Migrations\\20250205120821_UpdateDB.cs",
+              "RelativeDocumentMoniker": "Dal\\Migrations\\20250205120821_UpdateDB.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Migrations\\20250205120821_UpdateDB.cs",
+              "RelativeToolTip": "Dal\\Migrations\\20250205120821_UpdateDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:08:21.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ImageDetailsEntity.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\ImageDetailsEntity.cs",
+              "RelativeDocumentMoniker": "Dal\\Entities\\ImageDetailsEntity.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\ImageDetailsEntity.cs",
+              "RelativeToolTip": "Dal\\Entities\\ImageDetailsEntity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:09:21.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\IItemRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Interfaces\\IItemRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\IItemRepository.cs",
+              "RelativeToolTip": "Dal\\Interfaces\\IItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-05T11:41:04.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ImageUploadModel.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\ImageUploadModel.cs",
+              "RelativeDocumentMoniker": "Dal\\Entities\\ImageUploadModel.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\ImageUploadModel.cs",
+              "RelativeToolTip": "Dal\\Entities\\ImageUploadModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:09:19.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ServerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\ServerDbContext.cs",
+              "RelativeDocumentMoniker": "Dal\\Entities\\ServerDbContext.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\ServerDbContext.cs",
+              "RelativeToolTip": "Dal\\Entities\\ServerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:55:16.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\appsettings.json",
+              "RelativeDocumentMoniker": "ServerDuby\\appsettings.json",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\appsettings.json",
+              "RelativeToolTip": "ServerDuby\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T11:07:38.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Bll\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\UserService.cs",
+              "RelativeToolTip": "Bll\\Services\\UserService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T10:20:27.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Bll\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Bll\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:25:35.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Dal\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-05T11:44:34.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20250120121243_changeOrderDateToNull.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Migrations\\20250120121243_changeOrderDateToNull.cs",
+              "RelativeDocumentMoniker": "Dal\\Migrations\\20250120121243_changeOrderDateToNull.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Migrations\\20250120121243_changeOrderDateToNull.cs",
+              "RelativeToolTip": "Dal\\Migrations\\20250120121243_changeOrderDateToNull.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwBUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:12:43.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20250120110115_changeAddressToNull.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Migrations\\20250120110115_changeAddressToNull.cs",
+              "RelativeDocumentMoniker": "Dal\\Migrations\\20250120110115_changeAddressToNull.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Migrations\\20250120110115_changeAddressToNull.cs",
+              "RelativeToolTip": "Dal\\Migrations\\20250120110115_changeAddressToNull.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T11:01:16.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Api.csproj",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Api.csproj",
+              "RelativeDocumentMoniker": "ServerDuby\\Api.csproj",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Api.csproj",
+              "RelativeToolTip": "ServerDuby\\Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T10:07:44.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CityService.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\CityService.cs",
+              "RelativeDocumentMoniker": "Bll\\Services\\CityService.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\CityService.cs",
+              "RelativeToolTip": "Bll\\Services\\CityService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-05T12:01:21.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ICityService.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\ICityService.cs",
+              "RelativeDocumentMoniker": "Bll\\Interfaces\\ICityService.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\ICityService.cs",
+              "RelativeToolTip": "Bll\\Interfaces\\ICityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-05T12:04:21.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "ServerDuby\\Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\CityController.cs",
+              "RelativeToolTip": "ServerDuby\\Controllers\\CityController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-28T10:14:42.309Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 51,
+              "Title": "ICityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\ICityRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Interfaces\\ICityRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\ICityRepository.cs",
+              "RelativeToolTip": "Dal\\Interfaces\\ICityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:17:15.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SameItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\SameItemRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repository\\SameItemRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\SameItemRepository.cs",
+              "RelativeToolTip": "Dal\\Repository\\SameItemRepository.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwFEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-18T18:37:13.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SameItemService.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\SameItemService.cs",
+              "RelativeDocumentMoniker": "Bll\\Services\\SameItemService.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\SameItemService.cs",
+              "RelativeToolTip": "Bll\\Services\\SameItemService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-20T07:40:54.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ISameItemService.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\ISameItemService.cs",
+              "RelativeDocumentMoniker": "Bll\\Interfaces\\ISameItemService.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\ISameItemService.cs",
+              "RelativeToolTip": "Bll\\Interfaces\\ISameItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-05T11:43:48.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ISaleService.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\ISaleService.cs",
+              "RelativeDocumentMoniker": "Bll\\Interfaces\\ISaleService.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\ISaleService.cs",
+              "RelativeToolTip": "Bll\\Interfaces\\ISaleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-05T11:42:16.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Bll\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "Bll\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-05T11:41:34.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Bll\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\OrderService.cs",
+              "RelativeToolTip": "Bll\\Services\\OrderService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T10:19:37.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IItemInShoppingCartService.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\IItemInShoppingCartService.cs",
+              "RelativeDocumentMoniker": "Bll\\Interfaces\\IItemInShoppingCartService.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\IItemInShoppingCartService.cs",
+              "RelativeToolTip": "Bll\\Interfaces\\IItemInShoppingCartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-05T11:39:42.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ICuttingShapeService.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\ICuttingShapeService.cs",
+              "RelativeDocumentMoniker": "Bll\\Interfaces\\ICuttingShapeService.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Interfaces\\ICuttingShapeService.cs",
+              "RelativeToolTip": "Bll\\Interfaces\\ICuttingShapeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-24T12:41:14.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ItemInShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\ItemInShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repository\\ItemInShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\ItemInShoppingCartRepository.cs",
+              "RelativeToolTip": "Dal\\Repository\\ItemInShoppingCartRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-06T08:49:12.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Program.cs",
+              "RelativeDocumentMoniker": "Bll\\Program.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Program.cs",
+              "RelativeToolTip": "Bll\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T12:02:21.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ExtensionMethod.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\ExtensionMethod.cs",
+              "RelativeDocumentMoniker": "Bll\\ExtensionMethod.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\ExtensionMethod.cs",
+              "RelativeToolTip": "Bll\\ExtensionMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-24T10:26:07.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "Dal\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T11:25:15.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CuttingShapePerItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\CuttingShapePerItemRepository.cs",
+              "RelativeDocumentMoniker": "Dal\\Repository\\CuttingShapePerItemRepository.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\CuttingShapePerItemRepository.cs",
+              "RelativeToolTip": "Dal\\Repository\\CuttingShapePerItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwFYAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-05T13:14:58.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "SaleService.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\SaleService.cs",
+              "RelativeDocumentMoniker": "Bll\\Services\\SaleService.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\SaleService.cs",
+              "RelativeToolTip": "Bll\\Services\\SaleService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAlwCgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T10:19:38.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ItemInShoppingCartService.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\ItemInShoppingCartService.cs",
+              "RelativeDocumentMoniker": "Bll\\Services\\ItemInShoppingCartService.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\ItemInShoppingCartService.cs",
+              "RelativeToolTip": "Bll\\Services\\ItemInShoppingCartService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-06T08:45:34.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
               "Title": "ICuttingShapePerItemRepository.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\ICuttingShapePerItemRepository.cs",
               "RelativeDocumentMoniker": "Dal\\Interfaces\\ICuttingShapePerItemRepository.cs",
@@ -856,25 +1150,11 @@
               "RelativeToolTip": "Dal\\Interfaces\\ICuttingShapePerItemRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBZwA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-05T13:17:42.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-05T13:17:42.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Dal\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "Dal\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBUAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-05T11:44:34.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 67,
               "Title": "ISameItemRepository.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\ISameItemRepository.cs",
               "RelativeDocumentMoniker": "Dal\\Interfaces\\ISameItemRepository.cs",
@@ -882,12 +1162,11 @@
               "RelativeToolTip": "Dal\\Interfaces\\ISameItemRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-05T11:43:57.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-05T11:43:57.787Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 68,
               "Title": "ISaleRepository.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\ISaleRepository.cs",
               "RelativeDocumentMoniker": "Dal\\Interfaces\\ISaleRepository.cs",
@@ -895,12 +1174,11 @@
               "RelativeToolTip": "Dal\\Interfaces\\ISaleRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-05T11:43:17.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-05T11:43:17.947Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 69,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "Dal\\Interfaces\\IOrderRepository.cs",
@@ -908,118 +1186,7 @@
               "RelativeToolTip": "Dal\\Interfaces\\IOrderRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAswBUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-05T11:41:42.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "IItemRepository.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\IItemRepository.cs",
-              "RelativeDocumentMoniker": "Dal\\Interfaces\\IItemRepository.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\IItemRepository.cs",
-              "RelativeToolTip": "Dal\\Interfaces\\IItemRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-05T11:41:04.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "IItemInShoppingCartRepository.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\IItemInShoppingCartRepository.cs",
-              "RelativeDocumentMoniker": "Dal\\Interfaces\\IItemInShoppingCartRepository.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Interfaces\\IItemInShoppingCartRepository.cs",
-              "RelativeToolTip": "Dal\\Interfaces\\IItemInShoppingCartRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-05T11:39:44.846Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 17,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SameItemController.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\SameItemController.cs",
-              "RelativeDocumentMoniker": "ServerDuby\\Controllers\\SameItemController.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\SameItemController.cs",
-              "RelativeToolTip": "ServerDuby\\Controllers\\SameItemController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAgwEgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-28T10:32:08.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "SaleController.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\SaleController.cs",
-              "RelativeDocumentMoniker": "ServerDuby\\Controllers\\SaleController.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\SaleController.cs",
-              "RelativeToolTip": "ServerDuby\\Controllers\\SaleController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAcwCYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-28T10:14:17.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "ItemController.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\ItemController.cs",
-              "RelativeDocumentMoniker": "ServerDuby\\Controllers\\ItemController.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\ItemController.cs",
-              "RelativeToolTip": "ServerDuby\\Controllers\\ItemController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAqwEEAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-26T10:40:23.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ItemInShoppingCartController.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\ItemInShoppingCartController.cs",
-              "RelativeDocumentMoniker": "ServerDuby\\Controllers\\ItemInShoppingCartController.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\ItemInShoppingCartController.cs",
-              "RelativeToolTip": "ServerDuby\\Controllers\\ItemInShoppingCartController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwEQAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-26T10:21:50.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "CuttingShapeController.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\CuttingShapeController.cs",
-              "RelativeDocumentMoniker": "ServerDuby\\Controllers\\CuttingShapeController.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\CuttingShapeController.cs",
-              "RelativeToolTip": "ServerDuby\\Controllers\\CuttingShapeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-24T12:34:22.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "CuttingShapePerItemController.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\CuttingShapePerItemController.cs",
-              "RelativeDocumentMoniker": "ServerDuby\\Controllers\\CuttingShapePerItemController.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\ServerDuby\\Controllers\\CuttingShapePerItemController.cs",
-              "RelativeToolTip": "ServerDuby\\Controllers\\CuttingShapePerItemController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-24T11:24:05.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-05T11:41:42.554Z"
             }
           ]
         }

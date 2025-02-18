@@ -12,7 +12,9 @@ namespace Dal.Dto
     public class ItemDto
     {
         public int ItemId { get; set; }
-        public string ItemName { get; set; }
+        public string ItemEnName { get; set; }
+
+        public string ItemHeName { get; set; }
 
         public double Price { get; set; }
 
@@ -24,7 +26,7 @@ namespace Dal.Dto
 
         public double AverageSize { get; set; }
 
-        public List<byte[]> ? Images { get; set; }
+        public byte[] ? Images { get; set; }
       
     }
 }

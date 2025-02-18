@@ -23,9 +23,9 @@ namespace Dal.Entity
         [Required]
         public string Password { get; set; } 
 
-        [Required]
-        public int CityId { get; set; }
-        public CityEntity City { get; set; }
+        
+        public int? CityId { get; set; }
+        public CityEntity? City { get; set; }
 
         public string? Address { get; set; } 
 

@@ -11,7 +11,7 @@ namespace Dal.Entity
         public DbSet<CuttingShapeEntity> CuttingShapes { get; set; }
         public DbSet<ItemEntity> Items { get; set; }
         public DbSet<CuttingShapePerItemEntity> CuttingShapePerItem { get; set; }
-        public DbSet<ImageDetailEntity> ImageDetails { get; set; }
+        public DbSet<ImageDetailsEntity> ImageDetails { get; set; }
         public DbSet<OrderEntity> Orders { get; set; }
         public DbSet<SaleEntity> Sales { get; set; }
         public DbSet<SameItemEntity> SameItems { get; set; }

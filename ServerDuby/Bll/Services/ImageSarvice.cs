@@ -37,5 +37,10 @@ namespace Bll.Services
         {
             return await _imageRepository.GetImageByItemIdAsync(itemId);
         }
+
+        public async Task<byte[]> GetFirstImageByItemIdAsync(int itemId)
+        {
+            return await _imageRepository.GetFirstImageByItemIdAsync(itemId);
+        }
     }
 }

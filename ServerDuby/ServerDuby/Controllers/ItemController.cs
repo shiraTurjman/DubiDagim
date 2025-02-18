@@ -15,12 +15,12 @@ namespace WebApi.Controllers
 
         [HttpPost("AddItem")]
 
-        public async Task<ActionResult> AddItem([FromBody] ItemEntity item)
+        public async Task<ActionResult<int>> AddItem([FromBody] AddItemDto item)
         {
             try
             {
-                await _itemService.AddItemAsync(item);
-                return Ok(true);
+                int id = await _itemService.AddItemAsync(item);
+                return Ok(id);
             }
             catch (Exception ex) { throw new Exception(ex.Message); }
         }

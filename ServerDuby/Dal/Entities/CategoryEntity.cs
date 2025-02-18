@@ -14,9 +14,14 @@ namespace Dal.Entity
         public int CategoryId { get; set; }
 
         [Required]
-        public string CategoryName { get; set; }
+        public string CategoryEnName { get; set; }
+
+        [Required]
+        public string CategoryHeName { get; set; }
 
         [Required]
         public string Icon { get; set; }
+
+        public string Details { get; set; }
     }
 }

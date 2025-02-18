@@ -1,30 +1,38 @@
 import React from 'react';
 import logo from './logo.svg';
-import './App.css';
-import SingUp from './Components/SingUp/SingUp';
-import { Route, Routes } from 'react-router-dom';
+import './assets/css/app.css';
+import { BrowserRouter as Router,Route, Routes } from 'react-router-dom';
+import { UserProvider } from './context/UserContext';
 import Home from './Components/Home/Home';
 import NotFound from './Components/NotFound/NotFound';
-import Header from './Components/Header/Header';
+import Layout from './Components/Layout';
+import SignUp from './Components/SignUp/SignUp';
+import Login from './Components/Login';
+import Categories from './Components/Categories';
+import InnerCategory from './Components/InnerCategory';
 
 function App() {
   return (
     <div className="App">
-    
+      <UserProvider>
         
-      
-      <Routes>
+        <Routes>
+          {/* מסגרת לכל הדפים */}
+          <Route path="/" element={<Layout />}>
+            <Route index element={<Home />} />
+            <Route path="signup" element={<SignUp />} />
+            <Route path="/login" element={<Login />} />
+            <Route path="*" element={<NotFound />} />
+            <Route path='categories' element={<Categories/>}/>
+            <Route path="category/:id" element={<InnerCategory/>}/>
+
+          </Route>
+
+          {/* עמודים מחוץ למסגרת */}
+          
+        </Routes>
         
-        <Route path="/" element={<Header></Header>}>
-          {/* <Route index element={<Home></Home>}></Route> */}
-          <Route path="Home" element={<Home></Home>} ></Route>
-          <Route path="SingUp" element={<SingUp></SingUp>}></Route>
-        </Route>
-        <Route path="Home" element={<Home></Home>}></Route>
-        <Route path="*" element={<NotFound></NotFound>}></Route>
-      </Routes>
-      
-      
+      </UserProvider>
     </div>
   );
 }

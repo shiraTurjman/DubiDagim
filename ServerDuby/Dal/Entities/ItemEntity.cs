@@ -15,7 +15,9 @@ namespace Dal.Entity
         public int ItemId { get; set; }
 
         [Required]
-        public string ItemName { get; set; } 
+        public string ItemEnName { get; set; } 
+        [Required] 
+        public string ItemHeName { get;set; }
 
         [Required]
         public double Price { get; set; }

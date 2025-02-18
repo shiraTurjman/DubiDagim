@@ -1302,6 +1302,16 @@
             "rid": "win"
           }
         }
+      },
+      "Dto/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Dto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dto.dll": {}
+        }
       }
     }
   },
@@ -3994,10 +4004,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Dto/1.0.0": {
+      "type": "project",
+      "path": "../Dto/Dto.csproj",
+      "msbuildProject": "../Dto/Dto.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Dto >= 1.0.0",
       "EntityFramework >= 6.4.4",
       "Microsoft.AspNetCore.Http.Features >= 5.0.17",
       "Microsoft.AspNetCore.OpenApi >= 7.0.0",
@@ -4038,7 +4054,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\Dto.csproj": {
+              "projectPath": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\Dto.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

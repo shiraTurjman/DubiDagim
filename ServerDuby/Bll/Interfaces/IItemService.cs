@@ -10,7 +10,7 @@ namespace Bll.Interfaces
 {
     public interface IItemService
     {
-        Task<int> AddItemAsync(ItemEntity item);
+        Task<int> AddItemAsync(AddItemDto item);
         Task UpdateItemAsync(ItemEntity item);
         Task<int> DeleteItemAsync(int itemId);
 

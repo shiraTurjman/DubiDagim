@@ -24,7 +24,7 @@ namespace Dal.Repository
             using var context = _factory.CreateDbContext();
             try
             {
-                var ImageDetails = new ImageDetailEntity()
+                var ImageDetails = new ImageDetailsEntity()
                 {
                     ImgId = 0,
                     FileName = imageData.FileName,
@@ -94,6 +94,20 @@ namespace Dal.Repository
             }
 
          
+        }
+
+        public async Task<byte[]> GetFirstImageByItemIdAsync(int itemId)
+        {
+            using var context = _factory.CreateDbContext();
+            var img = await context.ImageDetails.FirstOrDefaultAsync(i => i.ItemId == itemId);
+            if (img != null)
+            {
+                return img.FileData;
+            }
+            else 
+            {
+                throw new Exception("could not get image by item id");
+            }
         }
     }
 }

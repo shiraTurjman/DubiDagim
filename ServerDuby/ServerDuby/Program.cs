@@ -1,3 +1,4 @@
+using Api.swagger;
 using Bll;
 using Dal.Entity;
 using Microsoft.AspNetCore.Diagnostics;
@@ -13,6 +14,10 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddSwaggerGen(c =>
+{
+    c.OperationFilter<SwaggerFileUploadOperationFilter>();
+});
 
 //builder.Services.AddDbContext<ServerDbContext>(
 //    o => o.UseSqlServer(builder.Configuration.GetConnectionString("myContextCon"))

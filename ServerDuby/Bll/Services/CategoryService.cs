@@ -33,7 +33,10 @@ namespace Bll.Services
             return await _ICategoryRepository.GetAllCategoriesAsync();
         }
 
-
+        public async Task<CategoryEntity> GetCategoryByIdAsync(int id)
+        { 
+            return await _ICategoryRepository.GetCategoryByIdAsync(id);
+        }
         public  async Task UpdateCategoryAsync(CategoryEntity category)
         {
             await _ICategoryRepository.UpdateCategoryAsync(category);

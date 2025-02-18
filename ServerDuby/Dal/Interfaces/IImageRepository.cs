@@ -13,6 +13,8 @@ namespace Dal.Interfaces
         Task<int> AddImageAsync(IFormFile imageData,int itemId);
         Task<byte[]> GetImageByImgIdAsync(int imgId);
         Task<List<byte[]>> GetImageByItemIdAsync(int itemId);
+        Task<byte[]> GetFirstImageByItemIdAsync(int itemId);
         Task DeleteImageByItemIdAsync(int itemId);
+        //Task DeleteImageByImageIdAsync(int imgId);
     }
 }

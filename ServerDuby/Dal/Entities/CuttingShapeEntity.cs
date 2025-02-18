@@ -15,7 +15,10 @@ namespace Dal.Entity
         public int CuttingShapeId { get; set; }
 
         [Required]
-        public string ShapeName { get; set; }
+        public string ShapeEnName { get; set; }
+
+        [Required] 
+        public string ShapeHeName { get;set; }
 
         [Required]
         public string Details { get; set; } 

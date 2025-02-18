@@ -4,10 +4,7 @@ export type User ={
     email:string;
     password:string;
     cityId:number;
-    address:string;
+    address?:string;
     phone:string;
     // agree?:boolean;
-    soppingCardId:number;
-
-
 }

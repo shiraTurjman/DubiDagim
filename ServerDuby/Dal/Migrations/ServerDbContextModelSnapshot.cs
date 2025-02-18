@@ -30,7 +30,15 @@ namespace Dal.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CategoryId"));
 
-                    b.Property<string>("CategoryName")
+                    b.Property<string>("CategoryEnName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("CategoryHeName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Details")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -72,7 +80,11 @@ namespace Dal.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("ShapeName")
+                    b.Property<string>("ShapeEnName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ShapeHeName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -104,7 +116,7 @@ namespace Dal.Migrations
                     b.ToTable("CuttingShapePerItem");
                 });
 
-            modelBuilder.Entity("Dal.Entity.ImageDetailEntity", b =>
+            modelBuilder.Entity("Dal.Entity.ImageDetailsEntity", b =>
                 {
                     b.Property<int>("ImgId")
                         .ValueGeneratedOnAdd()
@@ -148,7 +160,11 @@ namespace Dal.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("ItemName")
+                    b.Property<string>("ItemEnName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ItemHeName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -285,7 +301,7 @@ namespace Dal.Migrations
                     b.Property<string>("Address")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("CityId")
+                    b.Property<int?>("CityId")
                         .HasColumnType("int");
 
                     b.Property<string>("Email")
@@ -330,7 +346,7 @@ namespace Dal.Migrations
                     b.Navigation("Item");
                 });
 
-            modelBuilder.Entity("Dal.Entity.ImageDetailEntity", b =>
+            modelBuilder.Entity("Dal.Entity.ImageDetailsEntity", b =>
                 {
                     b.HasOne("Dal.Entity.ItemEntity", "Item")
                         .WithMany()
@@ -420,9 +436,7 @@ namespace Dal.Migrations
                 {
                     b.HasOne("Dal.Entity.CityEntity", "City")
                         .WithMany()
-                        .HasForeignKey("CityId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("CityId");
 
                     b.Navigation("City");
                 });

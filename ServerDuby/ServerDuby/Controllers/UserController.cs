@@ -17,14 +17,24 @@ namespace WebApi.Controllers
         }
         [HttpPost("AddUser")]
 
-        public async Task<ActionResult> AddUser([FromBody] UserDto user)
+        public async Task<ActionResult<UserDto>> AddUser([FromBody] UserDto user)
         {
             try
             {
-                await _userService.AddUserAsync(user);
-                return Ok(true);
+                if (user == null || string.IsNullOrEmpty(user.email))
+                {
+                    return BadRequest("Invalid user data. Make sure all fields are provided.");
+                }
+
+                Console.WriteLine($"Adding user: {user.email}");
+
+                var createdUser = await _userService.AddUserAsync(user);
+                return Ok(createdUser);
             }
-            catch (Exception ex) { throw new Exception(ex.Message); }
+            catch (Exception ex) {
+                Console.WriteLine($"Error in AddUser: {ex.Message}");
+                return StatusCode(500, ex.Message);
+            }
         }
 
         [HttpPut("UpdateUser")]
@@ -70,7 +80,8 @@ namespace WebApi.Controllers
             }
             catch (Exception ex)
             {
-                return Unauthorized(ex);
+                //return Unauthorized(ex);
+                return BadRequest("Email or password not valid. ");
             }
         }
 

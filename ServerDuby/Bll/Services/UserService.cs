@@ -18,7 +18,7 @@ namespace Bll.Services
         _userRepository = userRepository;
 
         }
-        public async Task AddUserAsync(UserDto user)
+        public async Task<UserDto> AddUserAsync(UserDto user)
         {
             try
             {
@@ -31,7 +31,7 @@ namespace Bll.Services
                     Address = user.address,
                     Phone = user.phone,
                 };
-                await _userRepository.AddUserAsync(userToAdd);
+               return await _userRepository.AddUserAsync(userToAdd);
             }
             catch (Exception ex)
             {
