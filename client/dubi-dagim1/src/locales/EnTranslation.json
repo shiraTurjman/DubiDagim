@@ -32,5 +32,14 @@
     "cutting_shape":"Cutting shape",
     "note_to_seller": "Note to seller",
     "amount": "Amount",
-    "write_note": "Write a note here..."
+    "write_note": "Write a note here...",
+    "add_category":"Add Category",
+    "editing": "Editing",
+    "items": "Items",
+    "categories": "Categories",
+    "en_name": "English Name",
+    "he_name": "Hebrew Name",
+    "icon": "Icon",
+    "details": "Details",
+    "found_icons": "Found Icons"
 }

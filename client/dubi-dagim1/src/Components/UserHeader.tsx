@@ -10,8 +10,11 @@ import Logo from '../img/logo.png';
 import ShoppingCartOutlinedIcon from '@mui/icons-material/ShoppingCartOutlined';
 import LanguageOutlinedIcon from '@mui/icons-material/LanguageOutlined';
 import SettingsOutlinedIcon from '@mui/icons-material/SettingsOutlined';
+import EditOutlinedIcon from '@mui/icons-material/EditOutlined';
 import { Category } from "../types/category";
 import axios from "axios";
+import { Button } from "react-bootstrap";
+import AddCategory from "./AddCategory";
 
 export default function UserHeader () {
   const { t , i18n } = useTranslation();
@@ -21,6 +24,7 @@ export default function UserHeader () {
   const [showModalLogout, setShowModelLogout] = useState(false);
   const navigate = useNavigate();
   const [category, setCategory] = useState<Category[]>([]);
+  const [openAddCategory, setOpenAddCategory] = useState(false);
 
     useEffect(() => {
         axios.get(`https://localhost:44388/api/Category/GetAllCategories`)
@@ -133,6 +137,11 @@ export default function UserHeader () {
                           </div>
                         </Link>
                         })}
+                        <div key={0} className="btn-underLine" onClick={()=>setOpenAddCategory(true)}>
+                          <div className="menu-txt mouse-cursor btn-sign">
+                            {t("add_category")}
+                          </div>
+                        </div>
 
                           
                         </div>
@@ -155,9 +164,9 @@ export default function UserHeader () {
                           {t("dashboard")}
                         </div>
                       </Link>
-                      <Link className="btn-underLine" to="/settings">
+                      <Link className="btn-underLine" to="/editing">
                         <div className="btn-navbar mouse-cursor">
-                          <SettingsOutlinedIcon/>
+                          <EditOutlinedIcon/>
                         </div>
                       </Link>
                       </>
@@ -209,6 +218,7 @@ export default function UserHeader () {
           
           {/*  Modal  */}
          {showModalLogout && <LogOut handleClose={hideModal}  />}
+         {openAddCategory && <AddCategory open={openAddCategory} onClose={()=>setOpenAddCategory(false)}/>}
           {/*  */}
           
         </div>

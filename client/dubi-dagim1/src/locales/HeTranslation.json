@@ -32,5 +32,14 @@
     "cutting_shape":"צורת חיתוך",
     "note_to_seller": "הערה למוכר",
     "amount": "כמות",
-    "write_note": "כתבו כאן הערה..."
+    "write_note": "כתבו כאן הערה...",
+    "add_category":"הוספת קטגוריה",
+    "editing": "עריכה",
+    "items": "פריטים",
+    "categories": "קטגוריות",
+    "en_name": "שם באנגלית",
+    "he_name": "שם בעברית",
+    "icon": "אייקון",
+    "details": "פרטים",
+    "found_icons": "חיפוש אייקון"
 }

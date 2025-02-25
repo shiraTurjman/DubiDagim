@@ -11,6 +11,8 @@ import Login from './Components/Login';
 import Categories from './Components/Categories';
 import InnerCategory from './Components/InnerCategory';
 
+import Editing from './Components/Editing';
+
 function App() {
   return (
     <div className="App">
@@ -25,6 +27,7 @@ function App() {
             <Route path="*" element={<NotFound />} />
             <Route path='categories' element={<Categories/>}/>
             <Route path="category/:id" element={<InnerCategory/>}/>
+            <Route path="editing" element={<Editing/>}/>
 
           </Route>
 
