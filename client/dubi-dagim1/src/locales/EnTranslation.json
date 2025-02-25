@@ -27,5 +27,10 @@
     "cancel": "Cancel",
     "settings": "Settings",
     "dashboard": "Dashboard",
-    "add_to_cart": "Add to Cart"
+    "add_to_cart": "Add to Cart",
+    "price": "Price",
+    "cutting_shape":"Cutting shape",
+    "note_to_seller": "Note to seller",
+    "amount": "Amount",
+    "write_note": "Write a note here..."
 }

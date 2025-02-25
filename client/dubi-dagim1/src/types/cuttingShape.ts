@@ -1,5 +1,5 @@
 export type CuttingShape = {
-    cottingShapeId : number,
+    cuttingShapeId : number,
     shapeEnName: string,
     shapeHeName: string,
     details: string

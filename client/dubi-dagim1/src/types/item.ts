@@ -16,4 +16,6 @@ export type Item = {
     averageSize: number,
 
     images:any,
+
+    cuttingShapes: any,
 }
