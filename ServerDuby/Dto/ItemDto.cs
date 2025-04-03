@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace Dal.Dto
 {
     public class ItemDto
@@ -27,6 +28,8 @@ namespace Dal.Dto
         public double AverageSize { get; set; }
 
         public byte[] ? Images { get; set; }
-      
+
+        public List<CuttingShapeDto>? cuttingShapes { get; set; }
+
     }
 }

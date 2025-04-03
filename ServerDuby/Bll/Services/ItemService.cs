@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 
 namespace Bll.Services
 {
@@ -15,10 +16,13 @@ namespace Bll.Services
         private readonly IItemRepository _itemRepository;
         private readonly IImageService _imageService;
         private readonly ICategoryService _categoryService;
-        public ItemService(IItemRepository itemRepository, IImageService imageService,ICategoryService categoryService) { 
+        private readonly ICuttingShapePerItemService _cuttingShapePerItemService;
+        public ItemService(IItemRepository itemRepository, IImageService imageService,ICategoryService categoryService,ICuttingShapePerItemService cuttingShapePerItemService) { 
         _itemRepository = itemRepository;
             _imageService = imageService;
             _categoryService = categoryService;
+            _cuttingShapePerItemService = cuttingShapePerItemService;
+            
         }
 
         public async Task<int> AddItemAsync(AddItemDto item)
@@ -80,6 +84,23 @@ namespace Bll.Services
                 //List<byte[]> images = new List<byte[]>();
                 //images = await _imageService.GetImageByItemIdAsync(item.ItemId);
                 byte[] image = await _imageService.GetFirstImageByItemIdAsync(item.ItemId);
+                List<CuttingShapeEntity> cutting = await _cuttingShapePerItemService.GetAllCuttingShapePerItemByItemIdAsync(item.ItemId);
+                List<CuttingShapeDto> cuttingShapeList = new List<CuttingShapeDto>();
+
+                if (cutting != null) { 
+
+                    foreach (var cuttingShape in cutting) 
+                    {
+                        cuttingShapeList.Add(new CuttingShapeDto()
+                        {
+                            Id = cuttingShape.CuttingShapeId,
+                            EnName = cuttingShape.ShapeEnName,
+                            HeName = cuttingShape.ShapeHeName,
+                        }); ;
+                    
+                     }
+                }
+                
                 result.Add(new ItemDto()
                 {
                     ItemId = item.ItemId,
@@ -90,7 +111,8 @@ namespace Bll.Services
                     CategoryName = categoryName,
                     Details = item.Details,
                     AverageSize = item.AverageSize,
-                    Images = image
+                    Images = image,
+                    cuttingShapes = cuttingShapeList,
 
                 }); ;
             }

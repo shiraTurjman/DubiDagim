@@ -8,6 +8,8 @@ export default function Credits () {
         <a href="https://www.flaticon.com/free-icons/food-and-restaurant" title="food and restaurant icons">Food and restaurant icons created by Freepik - Flaticon</a>
         <a href="https://www.flaticon.com/free-icons/habitat" title="habitat icons">Habitat icons created by gravisio - Flaticon</a>
         <a href="https://www.flaticon.com/free-icons/food-and-restaurant" title="food and restaurant icons">Food and restaurant icons created by Made by Made Premium - Flaticon</a>
+        <a href="https://www.flaticon.com/free-icons/frozen" title="frozen icons">Frozen icons created by Smashicons - Flaticon</a>
+        <a href="https://www.flaticon.com/free-icons/plus" title="plus icons">Plus icons created by dmitri13 - Flaticon</a>
 </>
     )
 }

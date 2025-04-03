@@ -1,7 +1,7 @@
 export type Category = {
-  categoryId: number,
+  categoryId?: number,
   categoryEnName: string,
   categoryHeName: string,
   icon: string,
-  details: string
+  details?: string
 }

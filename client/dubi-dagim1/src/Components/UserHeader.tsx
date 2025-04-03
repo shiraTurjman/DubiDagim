@@ -137,11 +137,12 @@ export default function UserHeader () {
                           </div>
                         </Link>
                         })}
+                        {role === "admin" && 
                         <div key={0} className="btn-underLine" onClick={()=>setOpenAddCategory(true)}>
                           <div className="menu-txt mouse-cursor btn-sign">
                             {t("add_category")}
                           </div>
-                        </div>
+                        </div>}
 
                           
                         </div>
@@ -218,7 +219,7 @@ export default function UserHeader () {
           
           {/*  Modal  */}
          {showModalLogout && <LogOut handleClose={hideModal}  />}
-         {openAddCategory && <AddCategory open={openAddCategory} onClose={()=>setOpenAddCategory(false)}/>}
+         {openAddCategory && <AddCategory open={openAddCategory} onClose={()=>setOpenAddCategory(false)} create={true}/>}
           {/*  */}
           
         </div>
