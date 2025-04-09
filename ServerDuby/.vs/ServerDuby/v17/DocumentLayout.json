@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dto\\cuttingshapedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|solutionrelative:dto\\cuttingshapedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dto\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|solutionrelative:dto\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dto\\additemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|solutionrelative:dto\\additemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\repository\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dto\\additemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|solutionrelative:dto\\additemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\services\\cuttingshapeperitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|solutionrelative:bll\\services\\cuttingshapeperitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -41,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dal\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3227AA1D-82F8-40AF-B94F-A450D73301A8}|Dal\\Dal.csproj|solutionrelative:dal\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dto\\cuttingshapedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|solutionrelative:dto\\cuttingshapedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6DE1166-4DA3-4507-8E80-DAD18BFFA776}|Dto\\Dto.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80FD0DD8-90DB-4EFF-8822-AE2984EA77D5}|Bll\\Bll.csproj|c:\\users\\s0527\\desktop\\website ariel\\dubidagim\\serverduby\\bll\\interfaces\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -310,20 +310,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 177,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CuttingShapePerItemService.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\CuttingShapePerItemService.cs",
-              "RelativeDocumentMoniker": "Bll\\Services\\CuttingShapePerItemService.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\CuttingShapePerItemService.cs",
-              "RelativeToolTip": "Bll\\Services\\CuttingShapePerItemService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T13:08:24.941Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -334,11 +322,12 @@
               "RelativeToolTip": "Dto\\ItemDto.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T10:19:56.364Z"
+              "WhenOpened": "2025-01-20T10:19:56.364Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ItemService.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\ItemService.cs",
               "RelativeDocumentMoniker": "Bll\\Services\\ItemService.cs",
@@ -351,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "AddItemDto.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\AddItemDto.cs",
               "RelativeDocumentMoniker": "Dto\\AddItemDto.cs",
@@ -359,11 +348,12 @@
               "RelativeToolTip": "Dto\\AddItemDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T20:57:43.447Z"
+              "WhenOpened": "2025-02-08T20:57:43.447Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "CityRepository.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\CityRepository.cs",
               "RelativeDocumentMoniker": "Dal\\Repository\\CityRepository.cs",
@@ -375,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "CityEntity.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\CityEntity.cs",
               "RelativeDocumentMoniker": "Dal\\Entities\\CityEntity.cs",
@@ -387,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "UserEntity.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Entities\\UserEntity.cs",
               "RelativeDocumentMoniker": "Dal\\Entities\\UserEntity.cs",
@@ -399,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\UserDto.cs",
               "RelativeDocumentMoniker": "Dto\\UserDto.cs",
@@ -407,11 +397,50 @@
               "RelativeToolTip": "Dto\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T09:16:34.264Z"
+              "WhenOpened": "2025-01-20T09:16:34.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CuttingShapeDto.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\CuttingShapeDto.cs",
+              "RelativeDocumentMoniker": "Dto\\CuttingShapeDto.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\CuttingShapeDto.cs",
+              "RelativeToolTip": "Dto\\CuttingShapeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:04:03.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "Dto\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T11:11:55.543Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "CuttingShapePerItemService.cs",
+              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\CuttingShapePerItemService.cs",
+              "RelativeDocumentMoniker": "Bll\\Services\\CuttingShapePerItemService.cs",
+              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\CuttingShapePerItemService.cs",
+              "RelativeToolTip": "Bll\\Services\\CuttingShapePerItemService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:08:24.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ItemRepository.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dal\\Repository\\ItemRepository.cs",
               "RelativeDocumentMoniker": "Dal\\Repository\\ItemRepository.cs",
@@ -420,30 +449,6 @@
               "ViewState": "AgIAADkAAAAAAAAAAAAAAEQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T11:32:50.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CuttingShapeDto.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\CuttingShapeDto.cs",
-              "RelativeDocumentMoniker": "Dto\\CuttingShapeDto.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\CuttingShapeDto.cs",
-              "RelativeToolTip": "Dto\\CuttingShapeDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T13:04:03.106Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\LoginDto.cs",
-              "RelativeDocumentMoniker": "Dto\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Dto\\LoginDto.cs",
-              "RelativeToolTip": "Dto\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-21T11:11:55.543Z"
             },
             {
               "$type": "Document",
@@ -459,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "CuttingShapeService.cs",
               "DocumentMoniker": "C:\\Users\\s0527\\Desktop\\website ariel\\DubiDagim\\ServerDuby\\Bll\\Services\\CuttingShapeService.cs",
               "RelativeDocumentMoniker": "Bll\\Services\\CuttingShapeService.cs",

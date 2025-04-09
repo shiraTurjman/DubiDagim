@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "formik": "^2.4.5"
+    "formik": "^2.4.5",
+    "react-router-dom": "^7.5.0"
   }
 }
